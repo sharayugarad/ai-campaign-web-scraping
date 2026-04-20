@@ -485,6 +485,17 @@ def dedupe_preserving_order(items: list[str]) -> list[str]:
     return unique_items
 
 
+def remove_overlapping_changes(
+    additions: list[str], deletions: list[str]
+) -> tuple[list[str], list[str], list[str]]:
+    """Treat shared additions/deletions as moved lines, not net content changes."""
+    overlap = set(additions) & set(deletions)
+    net_additions = [item for item in additions if item not in overlap]
+    net_deletions = [item for item in deletions if item not in overlap]
+    moved_items = [item for item in additions if item in overlap]
+    return net_additions, net_deletions, moved_items
+
+
 def classify_brand(result: dict) -> str:
     """Map a page result to a brand bucket for summary output."""
     if result.get("company"):
@@ -724,6 +735,7 @@ def format_structured_email(page_results: list[dict]) -> str:
         timestamp = result["timestamp"]
         additions = result["additions"]
         deletions = result["deletions"]
+        moved_items = result.get("moved_items", [])
         reorder = result["reorder"]
 
         lines = [f"{idx}. {name}"]
@@ -745,6 +757,10 @@ def format_structured_email(page_results: list[dict]) -> str:
             if deletions:
                 lines.append("Deletions:")
                 for item in deletions:
+                    lines.append(item)
+            if moved_items:
+                lines.append("Reordered items:")
+                for item in moved_items:
                     lines.append(item)
             if not additions and not deletions:
                 lines.append("Observed change:")
@@ -913,7 +929,8 @@ def main():
                     additions, deletions = parse_diff_lines(diff)
                     additions = dedupe_preserving_order(additions)
                     deletions = dedupe_preserving_order(deletions)
-                    reorder = is_reorder(additions, deletions)
+                    additions, deletions, moved_items = remove_overlapping_changes(additions, deletions)
+                    reorder = bool(moved_items) and not additions and not deletions
                     page_results_by_company[company].append({
                         "company": company,
                         "name": name,
@@ -921,6 +938,7 @@ def main():
                         "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
                         "additions": additions,
                         "deletions": deletions,
+                        "moved_items": moved_items,
                         "reorder": reorder,
                     })
                     snapshot_attachments_by_company[company].append(get_snapshot_path(name))

@@ -1,0 +1,389 @@
+2026-04-20 10:32:53,392 - INFO - ============================================================
+2026-04-20 10:32:53,392 - INFO - Web Page Change Monitor - Starting run
+2026-04-20 10:32:53,392 - INFO - Timestamp: 2026-04-20T10:32:53.392381
+2026-04-20 10:32:53,392 - INFO - ============================================================
+2026-04-20 10:32:53,393 - INFO - 
+Checking: OtterBox Terms of Use
+2026-04-20 10:32:53,393 - INFO - URL: https://www.otterbox.com/en-us/terms-of-use.html
+2026-04-20 10:32:55,856 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/otterbox_terms_of_use.json (2026-04-20)
+2026-04-20 10:32:55,856 - INFO - No changes detected for: OtterBox Terms of Use
+2026-04-20 10:32:55,856 - INFO - 
+Checking: 47Brand Rewards Terms and Conditions
+2026-04-20 10:32:55,856 - INFO - URL: https://www.47brand.com/pages/47-brand-rewards-terms-and-conditions
+2026-04-20 10:32:56,655 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/47brand_rewards_terms_and_conditions.json (2026-04-20)
+2026-04-20 10:32:56,656 - INFO - No changes detected for: 47Brand Rewards Terms and Conditions
+2026-04-20 10:32:56,656 - INFO - 
+Checking: 47Brand Terms and Conditions
+2026-04-20 10:32:56,656 - INFO - URL: https://www.47brand.com/pages/terms-conditions-47brand-com
+2026-04-20 10:32:57,212 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/47brand_terms_and_conditions.json (2026-04-20)
+2026-04-20 10:32:57,212 - INFO - No changes detected for: 47Brand Terms and Conditions
+2026-04-20 10:32:57,212 - INFO - 
+Checking: DoorDash Consumer Terms and Conditions
+2026-04-20 10:32:57,212 - INFO - URL: https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US
+2026-04-20 10:32:57,848 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/doordash_consumer_terms_and_conditions.json (2026-04-20)
+2026-04-20 10:32:57,848 - INFO - No changes detected for: DoorDash Consumer Terms and Conditions
+2026-04-20 10:32:57,849 - INFO - 
+Checking: DoorDash Consumer Terms and Conditions US English Section 12-14
+2026-04-20 10:32:57,849 - INFO - URL: https://help.doordash.com/dashers/s/news/consumer-terms-and-conditions-us-english-section-12-14-MCB5IXJMLM2RDULADEXG3OFNGWMA
+2026-04-20 10:32:58,952 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/doordash_consumer_terms_and_conditions_us_english_section_12_14.json (2026-04-20)
+2026-04-20 10:32:58,952 - INFO - No changes detected for: DoorDash Consumer Terms and Conditions US English Section 12-14
+2026-04-20 10:32:58,952 - INFO - 
+Checking: DoorDash Consumer Terms and Conditions AU English
+2026-04-20 10:32:58,952 - INFO - URL: https://help.doordash.com/dashers/s/news/consumer-terms-and-conditions-au-english-MCHRSFWWK4TFBJHCOTRE2QVVCN2I?language=de
+2026-04-20 10:33:01,026 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/doordash_consumer_terms_and_conditions_au_english.json (2026-04-20)
+2026-04-20 10:33:01,026 - INFO - No changes detected for: DoorDash Consumer Terms and Conditions AU English
+2026-04-20 10:33:01,026 - INFO - 
+Checking: DoorDash Promotional Terms and Conditions English
+2026-04-20 10:33:01,026 - INFO - URL: https://help.doordash.com/consumers/s/promotional-terms-and-conditions-english?language=en_US&ctry=IN&divcode=MH
+2026-04-20 10:33:02,607 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/doordash_promotional_terms_and_conditions_english.json (2026-04-20)
+2026-04-20 10:33:02,607 - INFO - No changes detected for: DoorDash Promotional Terms and Conditions English
+2026-04-20 10:33:02,607 - INFO - 
+Checking: Royal Caribbean Promotions Terms and Conditions
+2026-04-20 10:33:02,607 - INFO - URL: https://www.royalcaribbean.com/terms-and-conditions/promotions
+2026-04-20 10:33:03,166 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/snapshots/royal_caribbean_promotions_terms_and_conditions.txt
+2026-04-20 10:33:03,166 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/royal_caribbean_promotions_terms_and_conditions.json (2026-04-20)
+2026-04-20 10:33:03,166 - INFO - First snapshot captured for: Royal Caribbean Promotions Terms and Conditions
+2026-04-20 10:33:03,166 - INFO - 
+Checking: Royal Caribbean UAE Terms and Conditions
+2026-04-20 10:33:03,166 - INFO - URL: https://www.royalcaribbean.ae/terms-and-conditions/
+2026-04-20 10:33:03,810 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/snapshots/royal_caribbean_uae_terms_and_conditions.txt
+2026-04-20 10:33:03,810 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/royal_caribbean_uae_terms_and_conditions.json (2026-04-20)
+2026-04-20 10:33:03,810 - INFO - First snapshot captured for: Royal Caribbean UAE Terms and Conditions
+2026-04-20 10:33:03,810 - INFO - 
+Checking: Royal Caribbean UK Terms and Conditions
+2026-04-20 10:33:03,811 - INFO - URL: https://www.royalcaribbean.com/gbr/en/terms-and-conditions.co.uk?country=GBR
+2026-04-20 10:33:03,995 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/snapshots/royal_caribbean_uk_terms_and_conditions.txt
+2026-04-20 10:33:03,995 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/royal_caribbean_uk_terms_and_conditions.json (2026-04-20)
+2026-04-20 10:33:03,995 - INFO - First snapshot captured for: Royal Caribbean UK Terms and Conditions
+2026-04-20 10:33:03,995 - INFO - 
+Checking: Paperless Post Party Shop Terms and Conditions
+2026-04-20 10:33:03,995 - INFO - URL: https://partyshop.paperlesspost.com/pages/terms-conditions
+2026-04-20 10:33:04,506 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/paperless_post_party_shop_terms_and_conditions.json (2026-04-20)
+2026-04-20 10:33:04,506 - INFO - No changes detected for: Paperless Post Party Shop Terms and Conditions
+2026-04-20 10:33:04,506 - INFO - 
+Checking: Carhartt Terms and Conditions
+2026-04-20 10:33:04,506 - INFO - URL: https://www.carhartt.com/terms-conditions
+2026-04-20 10:33:05,623 - INFO - Retrying with browser fallback for https://www.carhartt.com/terms-conditions after HTTP 403
+2026-04-20 10:33:15,238 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/carhartt_terms_and_conditions.json (2026-04-20)
+2026-04-20 10:33:15,238 - INFO - No changes detected for: Carhartt Terms and Conditions
+2026-04-20 10:33:15,238 - INFO - 
+Checking: Carhartt WIP US Terms
+2026-04-20 10:33:15,238 - INFO - URL: https://us.carhartt-wip.com/en-us/terms
+2026-04-20 10:33:15,994 - INFO - CHANGES DETECTED for: Carhartt WIP US Terms
+2026-04-20 10:33:15,995 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/snapshots/carhartt_wip_us_terms.txt
+2026-04-20 10:33:15,997 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/carhartt_wip_us_terms.json (2026-04-20)
+2026-04-20 10:33:15,997 - INFO - 
+Checking: Carhartt WIP DE Terms
+2026-04-20 10:33:15,997 - INFO - URL: https://www.carhartt-wip.com/en-de/i/terms?srsltid=AfmBOopT5OKdNNxy7LmKCduP3dzn6PBKj0oDMtqhb7bfGIt_LDebrOrl
+2026-04-20 10:33:17,083 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/carhartt_wip_de_terms.json (2026-04-20)
+2026-04-20 10:33:17,083 - INFO - No changes detected for: Carhartt WIP DE Terms
+2026-04-20 10:33:17,083 - INFO - 
+Checking: Carhartt Company Gear Terms and Conditions
+2026-04-20 10:33:17,083 - INFO - URL: https://companygear.carhartt.com/terms-and-conditions/
+2026-04-20 10:33:17,405 - INFO - Retrying with browser fallback for https://companygear.carhartt.com/terms-and-conditions/ after HTTP 403
+2026-04-20 10:33:28,678 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/carhartt_company_gear_terms_and_conditions.json (2026-04-20)
+2026-04-20 10:33:28,678 - INFO - No changes detected for: Carhartt Company Gear Terms and Conditions
+2026-04-20 10:33:28,678 - INFO - 
+Checking: Yahoo Terms of Service
+2026-04-20 10:33:28,678 - INFO - URL: https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html
+2026-04-20 10:33:30,256 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/yahoo_terms_of_service.json (2026-04-20)
+2026-04-20 10:33:30,256 - INFO - No changes detected for: Yahoo Terms of Service
+2026-04-20 10:33:30,256 - INFO - 
+Checking: Yahoo Advertising Terms
+2026-04-20 10:33:30,256 - INFO - URL: https://legal.yahoo.com/us/en/yahoo/terms/advertising-322/index.html
+2026-04-20 10:33:31,252 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/yahoo_advertising_terms.json (2026-04-20)
+2026-04-20 10:33:31,252 - INFO - No changes detected for: Yahoo Advertising Terms
+2026-04-20 10:33:31,252 - INFO - 
+Checking: eBay Coded Coupons Buyer Terms
+2026-04-20 10:33:31,252 - INFO - URL: https://pages.ebay.com/specialoffers/codedcoupons_buyerterms.html
+2026-04-20 10:33:31,966 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/ebay_coded_coupons_buyer_terms.json (2026-04-20)
+2026-04-20 10:33:31,966 - INFO - No changes detected for: eBay Coded Coupons Buyer Terms
+2026-04-20 10:33:31,966 - INFO - 
+Checking: eBay Social Sharing Terms
+2026-04-20 10:33:31,966 - INFO - URL: https://pages.ebay.com/social/sharing/terms.html
+2026-04-20 10:33:32,378 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/ebay_social_sharing_terms.json (2026-04-20)
+2026-04-20 10:33:32,379 - INFO - No changes detected for: eBay Social Sharing Terms
+2026-04-20 10:33:32,379 - INFO - 
+Checking: eBay International Shipping Program Buyer Terms
+2026-04-20 10:33:32,379 - INFO - URL: https://pages.ebay.com/internationalshippingprogram/buyer/terms/
+2026-04-20 10:33:32,864 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/ebay_international_shipping_program_buyer_terms.json (2026-04-20)
+2026-04-20 10:33:32,864 - INFO - No changes detected for: eBay International Shipping Program Buyer Terms
+2026-04-20 10:33:32,864 - INFO - 
+Checking: Discord Terms
+2026-04-20 10:33:32,864 - INFO - URL: https://discord.com/terms
+2026-04-20 10:33:33,523 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/discord_terms.json (2026-04-20)
+2026-04-20 10:33:33,523 - INFO - No changes detected for: Discord Terms
+2026-04-20 10:33:33,523 - INFO - 
+Checking: Activision Terms of Use
+2026-04-20 10:33:33,523 - INFO - URL: https://www.activision.com/legal/terms-of-use
+2026-04-20 10:33:33,869 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/activision_terms_of_use.json (2026-04-20)
+2026-04-20 10:33:33,869 - INFO - No changes detected for: Activision Terms of Use
+2026-04-20 10:33:33,869 - INFO - 
+Checking: Formula 1 Official F1 Race Guide App Terms and Conditions
+2026-04-20 10:33:33,869 - INFO - URL: https://www.formula1.com/en/information/official-f1-race-guide-app-terms-and-conditions.6vXQ9RT3vCLLDDeyRSUPe7
+2026-04-20 10:33:34,640 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/formula_1_official_f1_race_guide_app_terms_and_conditions.json (2026-04-20)
+2026-04-20 10:33:34,640 - INFO - No changes detected for: Formula 1 Official F1 Race Guide App Terms and Conditions
+2026-04-20 10:33:34,640 - INFO - 
+Checking: Nintendo US Terms of Use
+2026-04-20 10:33:34,640 - INFO - URL: https://www.nintendo.com/us/terms-of-use/
+2026-04-20 10:33:34,740 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/nintendo_us_terms_of_use.json (2026-04-20)
+2026-04-20 10:33:34,740 - INFO - No changes detected for: Nintendo US Terms of Use
+2026-04-20 10:33:34,740 - INFO - 
+Checking: Nintendo US Purchase Terms
+2026-04-20 10:33:34,740 - INFO - URL: https://www.nintendo.com/us/purchase-terms/
+2026-04-20 10:33:34,806 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/nintendo_us_purchase_terms.json (2026-04-20)
+2026-04-20 10:33:34,806 - INFO - No changes detected for: Nintendo US Purchase Terms
+2026-04-20 10:33:34,806 - INFO - 
+Checking: Nintendo UK Terms of Service
+2026-04-20 10:33:34,806 - INFO - URL: https://www.nintendo.com/en-gb/Legal-information/Terms-of-service-570453.html
+2026-04-20 10:33:35,150 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/nintendo_uk_terms_of_service.json (2026-04-20)
+2026-04-20 10:33:35,150 - INFO - No changes detected for: Nintendo UK Terms of Service
+2026-04-20 10:33:35,150 - INFO - 
+Checking: Nintendo Canada Gift Card Terms
+2026-04-20 10:33:35,150 - INFO - URL: https://www.nintendo.com/en-ca/giftcards/terms/
+2026-04-20 10:33:35,216 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/nintendo_canada_gift_card_terms.json (2026-04-20)
+2026-04-20 10:33:35,216 - INFO - No changes detected for: Nintendo Canada Gift Card Terms
+2026-04-20 10:33:35,216 - INFO - 
+Checking: Redfin Terms of Use
+2026-04-20 10:33:35,216 - INFO - URL: https://www.redfin.com/about/terms-of-use
+2026-04-20 10:33:36,838 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/snapshots/redfin_terms_of_use.txt
+2026-04-20 10:33:36,838 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/redfin_terms_of_use.json (2026-04-20)
+2026-04-20 10:33:36,838 - INFO - First snapshot captured for: Redfin Terms of Use
+2026-04-20 10:33:36,838 - INFO - 
+Checking: Redfin Terms and Conditions
+2026-04-20 10:33:36,838 - INFO - URL: https://support.redfin.com/hc/en-us/articles/360001454551-Terms-and-Conditions
+2026-04-20 10:33:37,380 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/snapshots/redfin_terms_and_conditions.txt
+2026-04-20 10:33:37,381 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/redfin_terms_and_conditions.json (2026-04-20)
+2026-04-20 10:33:37,381 - INFO - First snapshot captured for: Redfin Terms and Conditions
+2026-04-20 10:33:37,381 - INFO - 
+Checking: Hoopla Terms
+2026-04-20 10:33:37,381 - INFO - URL: https://www.hoopladigital.com/terms
+2026-04-20 10:33:37,854 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/hoopla_terms.json (2026-04-20)
+2026-04-20 10:33:37,854 - INFO - No changes detected for: Hoopla Terms
+2026-04-20 10:33:37,854 - INFO - 
+Checking: Hoopla Audiobook Terms and Conditions Lauren Asher
+2026-04-20 10:33:37,854 - INFO - URL: https://www.hoopladigital.com/audiobook/terms-and-conditions-lauren-asher/15210357
+2026-04-20 10:33:38,212 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/hoopla_audiobook_terms_and_conditions_lauren_asher.json (2026-04-20)
+2026-04-20 10:33:38,212 - INFO - No changes detected for: Hoopla Audiobook Terms and Conditions Lauren Asher
+2026-04-20 10:33:38,212 - INFO - 
+Checking: Hoopla UK Terms of Use
+2026-04-20 10:33:38,213 - INFO - URL: https://hoopladigital.co.uk/terms-of-use/
+2026-04-20 10:33:39,439 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/hoopla_uk_terms_of_use.json (2026-04-20)
+2026-04-20 10:33:39,439 - INFO - No changes detected for: Hoopla UK Terms of Use
+2026-04-20 10:33:39,439 - INFO - 
+Checking: 305 Fitness Terms of Service
+2026-04-20 10:33:39,439 - INFO - URL: https://www.305fitness.com/terms-of-service
+2026-04-20 10:33:39,985 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/305_fitness_terms_of_service.json (2026-04-20)
+2026-04-20 10:33:39,985 - INFO - No changes detected for: 305 Fitness Terms of Service
+2026-04-20 10:33:39,985 - INFO - 
+Checking: Bandai Namco Terms
+2026-04-20 10:33:39,985 - INFO - URL: https://www.bandainamcoent.com/legal/terms
+2026-04-20 10:33:45,579 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/bandai_namco_terms.json (2026-04-20)
+2026-04-20 10:33:45,579 - INFO - No changes detected for: Bandai Namco Terms
+2026-04-20 10:33:45,579 - INFO - 
+Checking: Baseball America Terms of Use
+2026-04-20 10:33:45,579 - INFO - URL: https://www.baseballamerica.com/terms-of-use/
+2026-04-20 10:33:46,106 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/baseball_america_terms_of_use.json (2026-04-20)
+2026-04-20 10:33:46,106 - INFO - No changes detected for: Baseball America Terms of Use
+2026-04-20 10:33:46,106 - INFO - 
+Checking: Birds and Blooms Hidden Object Official Rules
+2026-04-20 10:33:46,106 - INFO - URL: https://www.birdsandblooms.com/birds-blooms-hidden-object-official-rules/
+2026-04-20 10:33:46,358 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/birds_and_blooms_hidden_object_official_rules.json (2026-04-20)
+2026-04-20 10:33:46,358 - INFO - No changes detected for: Birds and Blooms Hidden Object Official Rules
+2026-04-20 10:33:46,358 - INFO - 
+Checking: CorePower Yoga Terms of Use
+2026-04-20 10:33:46,358 - INFO - URL: https://www.corepoweryoga.com/content/terms-use
+2026-04-20 10:33:46,880 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/corepower_yoga_terms_of_use.json (2026-04-20)
+2026-04-20 10:33:46,881 - INFO - No changes detected for: CorePower Yoga Terms of Use
+2026-04-20 10:33:46,881 - INFO - 
+Checking: CorePower Yoga Student Terms and Conditions
+2026-04-20 10:33:46,881 - INFO - URL: https://www.corepoweryoga.com/content/student-terms-conditions
+2026-04-20 10:33:47,327 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/corepower_yoga_student_terms_and_conditions.json (2026-04-20)
+2026-04-20 10:33:47,327 - INFO - No changes detected for: CorePower Yoga Student Terms and Conditions
+2026-04-20 10:33:47,327 - INFO - 
+Checking: Criterion Terms
+2026-04-20 10:33:47,327 - INFO - URL: https://www.criterion.com/terms?srsltid=AfmBOoqHIf_tHIBfLgXJCw-OBaUsLcBm5suDfiCDBavrhMIeTHWQU6OF
+2026-04-20 10:33:49,028 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/criterion_terms.json (2026-04-20)
+2026-04-20 10:33:49,028 - INFO - No changes detected for: Criterion Terms
+2026-04-20 10:33:49,028 - INFO - 
+Checking: Criterion Channel Terms of Service
+2026-04-20 10:33:49,028 - INFO - URL: https://www.criterionchannel.com/tos
+2026-04-20 10:33:49,976 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/criterion_channel_terms_of_service.json (2026-04-20)
+2026-04-20 10:33:49,976 - INFO - No changes detected for: Criterion Channel Terms of Service
+2026-04-20 10:33:49,976 - INFO - 
+Checking: DKOldies Terms and Conditions
+2026-04-20 10:33:49,976 - INFO - URL: https://www.dkoldies.com/terms-and-conditions/
+2026-04-20 10:33:52,370 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/dkoldies_terms_and_conditions.json (2026-04-20)
+2026-04-20 10:33:52,370 - INFO - No changes detected for: DKOldies Terms and Conditions
+2026-04-20 10:33:52,370 - INFO - 
+Checking: EA User Agreement
+2026-04-20 10:33:52,370 - INFO - URL: https://www.ea.com/legal/user-agreement
+2026-04-20 10:33:52,682 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/ea_user_agreement.json (2026-04-20)
+2026-04-20 10:33:52,682 - INFO - No changes detected for: EA User Agreement
+2026-04-20 10:33:52,682 - INFO - 
+Checking: EA Terms of Sale
+2026-04-20 10:33:52,683 - INFO - URL: https://www.ea.com/legal/terms-of-sale
+2026-04-20 10:33:53,205 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/ea_terms_of_sale.json (2026-04-20)
+2026-04-20 10:33:53,205 - INFO - No changes detected for: EA Terms of Sale
+2026-04-20 10:33:53,205 - INFO - 
+Checking: EA Play Terms
+2026-04-20 10:33:53,205 - INFO - URL: https://www.ea.com/legal/ea-play-terms
+2026-04-20 10:33:53,777 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/ea_play_terms.json (2026-04-20)
+2026-04-20 10:33:53,777 - INFO - No changes detected for: EA Play Terms
+2026-04-20 10:33:53,777 - INFO - 
+Checking: Game Over Videogames Terms of Use
+2026-04-20 10:33:53,777 - INFO - URL: https://gameovergames.com/terms-of-use/
+2026-04-20 10:33:55,115 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/game_over_videogames_terms_of_use.json (2026-04-20)
+2026-04-20 10:33:55,115 - INFO - No changes detected for: Game Over Videogames Terms of Use
+2026-04-20 10:33:55,116 - INFO - 
+Checking: GameFly Terms of Use
+2026-04-20 10:33:55,116 - INFO - URL: https://www.gamefly.com/terms-of-use?srsltid=AfmBOopNrKpQyLUcGwbRwLj6xJ6vsCLufM2Qm_TNO5nMNWmR7r5RbvQY
+2026-04-20 10:33:56,423 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/gamefly_terms_of_use.json (2026-04-20)
+2026-04-20 10:33:56,423 - INFO - No changes detected for: GameFly Terms of Use
+2026-04-20 10:33:56,423 - INFO - 
+Checking: Google Assistant Community Terms
+2026-04-20 10:33:56,423 - INFO - URL: https://developers.google.com/assistant/community/terms
+2026-04-20 10:33:57,351 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/google_assistant_community_terms.json (2026-04-20)
+2026-04-20 10:33:57,351 - INFO - No changes detected for: Google Assistant Community Terms
+2026-04-20 10:33:57,351 - INFO - 
+Checking: Google Assistant Product Terms
+2026-04-20 10:33:57,351 - INFO - URL: https://transparency.google/intl/en/our-policies/product-terms/google-assistant/
+2026-04-20 10:33:57,557 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/google_assistant_product_terms.json (2026-04-20)
+2026-04-20 10:33:57,557 - INFO - No changes detected for: Google Assistant Product Terms
+2026-04-20 10:33:57,558 - INFO - 
+Checking: iam8bit Terms Conditions Policy
+2026-04-20 10:33:57,558 - INFO - URL: https://www.iam8bit.com/pages/terms-conditions-policy
+2026-04-20 10:33:58,310 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/iam8bit_terms_conditions_policy.json (2026-04-20)
+2026-04-20 10:33:58,310 - INFO - No changes detected for: iam8bit Terms Conditions Policy
+2026-04-20 10:33:58,310 - INFO - 
+Checking: iam8bit Policies
+2026-04-20 10:33:58,310 - INFO - URL: https://www.iam8bit.com/pages/policies
+2026-04-20 10:33:58,822 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/iam8bit_policies.json (2026-04-20)
+2026-04-20 10:33:58,822 - INFO - No changes detected for: iam8bit Policies
+2026-04-20 10:33:58,822 - INFO - 
+Checking: iam8bit Privacy Policy
+2026-04-20 10:33:58,822 - INFO - URL: https://www.iam8bit.com/pages/privacy-policy
+2026-04-20 10:33:59,336 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/iam8bit_privacy_policy.json (2026-04-20)
+2026-04-20 10:33:59,336 - INFO - No changes detected for: iam8bit Privacy Policy
+2026-04-20 10:33:59,336 - INFO - 
+Checking: Kick Terms of Service
+2026-04-20 10:33:59,336 - INFO - URL: https://kick.com/terms-of-service
+2026-04-20 10:34:00,153 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/kick_terms_of_service.json (2026-04-20)
+2026-04-20 10:34:00,153 - INFO - No changes detected for: Kick Terms of Service
+2026-04-20 10:34:00,153 - INFO - 
+Checking: Kick Partner Terms and Conditions
+2026-04-20 10:34:00,153 - INFO - URL: https://kick.com/partner-terms-and-conditions
+2026-04-20 10:34:02,130 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/kick_partner_terms_and_conditions.json (2026-04-20)
+2026-04-20 10:34:02,130 - INFO - No changes detected for: Kick Partner Terms and Conditions
+2026-04-20 10:34:02,130 - INFO - 
+Checking: Xbox Subscription Terms
+2026-04-20 10:34:02,130 - INFO - URL: https://www.xbox.com/en-IN/legal/subscription-terms
+2026-04-20 10:34:03,022 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/xbox_subscription_terms.json (2026-04-20)
+2026-04-20 10:34:03,023 - INFO - No changes detected for: Xbox Subscription Terms
+2026-04-20 10:34:03,023 - INFO - 
+Checking: Xbox Web Purchase Terms
+2026-04-20 10:34:03,023 - INFO - URL: https://www.xbox.com/en-US/legal/web-purchase
+2026-04-20 10:34:03,433 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/xbox_web_purchase_terms.json (2026-04-20)
+2026-04-20 10:34:03,433 - INFO - No changes detected for: Xbox Web Purchase Terms
+2026-04-20 10:34:03,433 - INFO - 
+Checking: PGA TOUR Tickets and Merchandise Terms and Conditions
+2026-04-20 10:34:03,433 - INFO - URL: https://www.pgatour.com/company/terms-conditions-tickets-and-merchandise
+2026-04-20 10:34:07,005 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/snapshots/pga_tour_tickets_and_merchandise_terms_and_conditions.txt
+2026-04-20 10:34:07,006 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/pga_tour_tickets_and_merchandise_terms_and_conditions.json (2026-04-20)
+2026-04-20 10:34:07,006 - INFO - First snapshot captured for: PGA TOUR Tickets and Merchandise Terms and Conditions
+2026-04-20 10:34:07,006 - INFO - 
+Checking: PGA TOUR Terms of Use
+2026-04-20 10:34:07,006 - INFO - URL: https://www.pgatour.com/company/terms-of-use
+2026-04-20 10:34:08,934 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/snapshots/pga_tour_terms_of_use.txt
+2026-04-20 10:34:08,935 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/pga_tour_terms_of_use.json (2026-04-20)
+2026-04-20 10:34:08,935 - INFO - First snapshot captured for: PGA TOUR Terms of Use
+2026-04-20 10:34:08,935 - INFO - 
+Checking: Pvolve Terms of Service
+2026-04-20 10:34:08,935 - INFO - URL: https://www.pvolve.com/policies/terms-of-service?srsltid=AfmBOoqMxgGLW17FSojeSIBgMvuQApDx-G0oX10TWbOGLJ-XtagqbxH2
+2026-04-20 10:34:09,772 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/pvolve_terms_of_service.json (2026-04-20)
+2026-04-20 10:34:09,772 - INFO - No changes detected for: Pvolve Terms of Service
+2026-04-20 10:34:09,772 - INFO - 
+Checking: Pvolve Terms of Service Page 2
+2026-04-20 10:34:09,772 - INFO - URL: https://www.pvolve.com/policies/terms-of-service?page=2&srsltid=AfmBOora5D6RkYgBsrQzHBqTr0DdaxYGlPgiSm77Nipr3y4v8rvpEHuK
+2026-04-20 10:34:10,529 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/pvolve_terms_of_service_page_2.json (2026-04-20)
+2026-04-20 10:34:10,529 - INFO - No changes detected for: Pvolve Terms of Service Page 2
+2026-04-20 10:34:10,529 - INFO - 
+Checking: Pvolve Ultimate Giveaway 2025 Terms and Conditions
+2026-04-20 10:34:10,529 - INFO - URL: https://www.pvolve.com/pages/terms-conditions-ultimate-giveaway-2025?srsltid=AfmBOorXYZAWGpkB85_Cmz6VuPZ7b5YnyImKsRyiHp7c5MGcRQrUnOsp
+2026-04-20 10:34:11,210 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/pvolve_ultimate_giveaway_2025_terms_and_conditions.json (2026-04-20)
+2026-04-20 10:34:11,210 - INFO - No changes detected for: Pvolve Ultimate Giveaway 2025 Terms and Conditions
+2026-04-20 10:34:11,210 - INFO - 
+Checking: Quince Privacy Policy
+2026-04-20 10:34:11,210 - INFO - URL: https://www.quince.com/privacy-policy?srsltid=AfmBOorDGXgSLYQALnnpy2FCZsaA5J8pzdUK74zfteFSaQZMpnpJgvd0
+2026-04-20 10:34:13,067 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/quince_privacy_policy.json (2026-04-20)
+2026-04-20 10:34:13,067 - INFO - No changes detected for: Quince Privacy Policy
+2026-04-20 10:34:13,067 - INFO - 
+Checking: Quince Terms
+2026-04-20 10:34:13,067 - INFO - URL: https://www.quince.com/terms?srsltid=AfmBOopmxy-iYsOpaSa17WxlmBwrvPClfouahF7_qgwm6ElqSLk6DcyH
+2026-04-20 10:34:14,631 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/quince_terms.json (2026-04-20)
+2026-04-20 10:34:14,631 - INFO - No changes detected for: Quince Terms
+2026-04-20 10:34:14,631 - INFO - 
+Checking: Reader's Digest Terms of Use
+2026-04-20 10:34:14,631 - INFO - URL: https://www.readersdigest.in/terms-of-use
+2026-04-20 10:34:16,207 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/reader_s_digest_terms_of_use.json (2026-04-20)
+2026-04-20 10:34:16,207 - INFO - No changes detected for: Reader's Digest Terms of Use
+2026-04-20 10:34:16,207 - INFO - 
+Checking: Reader's Digest Gift Rules
+2026-04-20 10:34:16,207 - INFO - URL: https://subscription.readersdigest.in/rdindia/giftedm/s100rules.html
+2026-04-20 10:34:17,515 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/reader_s_digest_gift_rules.json (2026-04-20)
+2026-04-20 10:34:17,516 - INFO - No changes detected for: Reader's Digest Gift Rules
+2026-04-20 10:34:17,516 - INFO - 
+Checking: SiriusXM Media Terms
+2026-04-20 10:34:17,516 - INFO - URL: https://www.siriusxmmedia.com/terms
+2026-04-20 10:34:19,394 - INFO - CHANGES DETECTED for: SiriusXM Media Terms
+2026-04-20 10:34:19,395 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/snapshots/siriusxm_media_terms.txt
+2026-04-20 10:34:19,396 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/siriusxm_media_terms.json (2026-04-20)
+2026-04-20 10:34:19,396 - INFO - 
+Checking: SiriusXM Customer Agreement
+2026-04-20 10:34:19,396 - INFO - URL: https://www.siriusxm.com/customer-agreement
+2026-04-20 10:34:22,036 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/siriusxm_customer_agreement.json (2026-04-20)
+2026-04-20 10:34:22,036 - INFO - No changes detected for: SiriusXM Customer Agreement
+2026-04-20 10:34:22,036 - INFO - 
+Checking: Starz Terms of Use
+2026-04-20 10:34:22,036 - INFO - URL: https://www.starz.com/us/en/termsofuse
+2026-04-20 10:34:24,554 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/starz_terms_of_use.json (2026-04-20)
+2026-04-20 10:34:24,554 - INFO - No changes detected for: Starz Terms of Use
+2026-04-20 10:34:24,554 - INFO - 
+Checking: Starz SPI Terms Web BR EN
+2026-04-20 10:34:24,554 - INFO - URL: https://resources.starz.com/legal/spi-terms-web-br-en.html
+2026-04-20 10:34:25,353 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/starz_spi_terms_web_br_en.json (2026-04-20)
+2026-04-20 10:34:25,353 - INFO - No changes detected for: Starz SPI Terms Web BR EN
+2026-04-20 10:34:25,353 - INFO - 
+Checking: Starz SPI Terms Web FI EN
+2026-04-20 10:34:25,353 - INFO - URL: https://resources.starz.com/legal/spi-terms-web-fi-en.html
+2026-04-20 10:34:26,191 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/starz_spi_terms_web_fi_en.json (2026-04-20)
+2026-04-20 10:34:26,191 - INFO - No changes detected for: Starz SPI Terms Web FI EN
+2026-04-20 10:34:26,191 - INFO - 
+Checking: TaxAct Terms of Service
+2026-04-20 10:34:26,191 - INFO - URL: https://www.taxact.com/terms-of-service
+2026-04-20 10:34:27,958 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/taxact_terms_of_service.json (2026-04-20)
+2026-04-20 10:34:27,958 - INFO - No changes detected for: TaxAct Terms of Service
+2026-04-20 10:34:27,958 - INFO - 
+Checking: TaxAct Terms of Service Printable
+2026-04-20 10:34:27,958 - INFO - URL: https://www.taxact.com/terms-of-service/printable
+2026-04-20 10:34:29,562 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/taxact_terms_of_service_printable.json (2026-04-20)
+2026-04-20 10:34:29,563 - INFO - No changes detected for: TaxAct Terms of Service Printable
+2026-04-20 10:34:29,563 - INFO - 
+Checking: TaxAct Free File Terms of Service
+2026-04-20 10:34:29,563 - INFO - URL: https://www.taxact.com/ffa/free-file/terms-of-service
+2026-04-20 10:34:32,489 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/taxact_free_file_terms_of_service.json (2026-04-20)
+2026-04-20 10:34:32,489 - INFO - No changes detected for: TaxAct Free File Terms of Service
+2026-04-20 10:34:32,489 - INFO - 
+Checking: TaxAct VITA Terms of Service
+2026-04-20 10:34:32,489 - INFO - URL: https://www.taxact.com/ffa/vita/terms-of-service
+2026-04-20 10:34:33,509 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/taxact_vita_terms_of_service.json (2026-04-20)
+2026-04-20 10:34:33,509 - INFO - No changes detected for: TaxAct VITA Terms of Service
+2026-04-20 10:34:33,509 - INFO - 
+Checking: TaxAct Refer Terms
+2026-04-20 10:34:33,509 - INFO - URL: https://refer.taxact.com/zone/terms?campaign_id=6766300849289157074
+2026-04-20 10:34:34,624 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/ai-campaign-web-scraping/history/taxact_refer_terms.json (2026-04-20)
+2026-04-20 10:34:34,624 - INFO - No changes detected for: TaxAct Refer Terms
+2026-04-20 10:34:45,892 - INFO - Email sent: [Page Monitor] Consolidated summary
+2026-04-20 10:34:45,896 - INFO - 
+Run complete. Changes found: 2
+2026-04-20 10:34:45,896 - INFO - ============================================================
