@@ -1,0 +1,23 @@
+{
+  "2026-04-16": {
+    "url": "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US",
+    "scraped_at": "2026-04-16T15:30:29.028691",
+    "content_length": 14,
+    "changed": false,
+    "content": "Doordash Legal"
+  },
+  "2026-04-17": {
+    "url": "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US",
+    "scraped_at": "2026-04-17T09:00:04.553620",
+    "content_length": 14,
+    "changed": false,
+    "content": "Doordash Legal"
+  },
+  "2026-04-20": {
+    "url": "https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US",
+    "scraped_at": "2026-04-20T09:00:07.284589",
+    "content_length": 14,
+    "changed": false,
+    "content": "Doordash Legal"
+  }
+}

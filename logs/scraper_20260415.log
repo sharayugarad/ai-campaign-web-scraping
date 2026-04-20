@@ -1,0 +1,22 @@
+2026-04-15 09:00:02,136 - INFO - ============================================================
+2026-04-15 09:00:02,136 - INFO - Web Page Change Monitor - Starting run
+2026-04-15 09:00:02,136 - INFO - Timestamp: 2026-04-15T09:00:02.136752
+2026-04-15 09:00:02,136 - INFO - ============================================================
+2026-04-15 09:00:02,139 - INFO - 
+Checking: OtterBox Terms of Use
+2026-04-15 09:00:02,139 - INFO - URL: https://www.otterbox.com/en-us/terms-of-use.html
+2026-04-15 09:00:03,172 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/otterbox_terms_of_use.json (2026-04-15)
+2026-04-15 09:00:03,172 - INFO - No changes detected for: OtterBox Terms of Use
+2026-04-15 09:00:03,173 - INFO - 
+Checking: 47Brand Rewards Terms and Conditions
+2026-04-15 09:00:03,173 - INFO - URL: https://www.47brand.com/pages/47-brand-rewards-terms-and-conditions
+2026-04-15 09:00:04,926 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_rewards_terms_and_conditions.json (2026-04-15)
+2026-04-15 09:00:04,926 - INFO - No changes detected for: 47Brand Rewards Terms and Conditions
+2026-04-15 09:00:04,926 - INFO - 
+Checking: 47Brand Terms and Conditions
+2026-04-15 09:00:04,926 - INFO - URL: https://www.47brand.com/pages/terms-conditions-47brand-com
+2026-04-15 09:00:06,160 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_terms_and_conditions.json (2026-04-15)
+2026-04-15 09:00:06,160 - INFO - No changes detected for: 47Brand Terms and Conditions
+2026-04-15 09:00:06,160 - INFO - 
+Run complete. Changes found: 0
+2026-04-15 09:00:06,160 - INFO - ============================================================

@@ -1,0 +1,507 @@
+2026-04-16 09:00:01,193 - INFO - ============================================================
+2026-04-16 09:00:01,195 - INFO - Web Page Change Monitor - Starting run
+2026-04-16 09:00:01,195 - INFO - Timestamp: 2026-04-16T09:00:01.195774
+2026-04-16 09:00:01,195 - INFO - ============================================================
+2026-04-16 09:00:01,198 - INFO - 
+Checking: OtterBox Terms of Use
+2026-04-16 09:00:01,198 - INFO - URL: https://www.otterbox.com/en-us/terms-of-use.html
+2026-04-16 09:00:02,350 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/otterbox_terms_of_use.json (2026-04-16)
+2026-04-16 09:00:02,351 - INFO - No changes detected for: OtterBox Terms of Use
+2026-04-16 09:00:02,351 - INFO - 
+Checking: 47Brand Rewards Terms and Conditions
+2026-04-16 09:00:02,351 - INFO - URL: https://www.47brand.com/pages/47-brand-rewards-terms-and-conditions
+2026-04-16 09:00:03,871 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_rewards_terms_and_conditions.json (2026-04-16)
+2026-04-16 09:00:03,871 - INFO - No changes detected for: 47Brand Rewards Terms and Conditions
+2026-04-16 09:00:03,871 - INFO - 
+Checking: 47Brand Terms and Conditions
+2026-04-16 09:00:03,871 - INFO - URL: https://www.47brand.com/pages/terms-conditions-47brand-com
+2026-04-16 09:00:04,868 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_terms_and_conditions.json (2026-04-16)
+2026-04-16 09:00:04,869 - INFO - No changes detected for: 47Brand Terms and Conditions
+2026-04-16 09:00:04,869 - INFO - 
+Run complete. Changes found: 0
+2026-04-16 09:00:04,869 - INFO - ============================================================
+2026-04-16 15:30:25,840 - INFO - ============================================================
+2026-04-16 15:30:25,840 - INFO - Web Page Change Monitor - Starting run
+2026-04-16 15:30:25,840 - INFO - Timestamp: 2026-04-16T15:30:25.840679
+2026-04-16 15:30:25,840 - INFO - ============================================================
+2026-04-16 15:30:25,841 - INFO - 
+Checking: OtterBox Terms of Use
+2026-04-16 15:30:25,841 - INFO - URL: https://www.otterbox.com/en-us/terms-of-use.html
+2026-04-16 15:30:26,947 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/otterbox_terms_of_use.json (2026-04-16)
+2026-04-16 15:30:26,947 - INFO - No changes detected for: OtterBox Terms of Use
+2026-04-16 15:30:26,947 - INFO - 
+Checking: 47Brand Rewards Terms and Conditions
+2026-04-16 15:30:26,947 - INFO - URL: https://www.47brand.com/pages/47-brand-rewards-terms-and-conditions
+2026-04-16 15:30:27,801 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_rewards_terms_and_conditions.json (2026-04-16)
+2026-04-16 15:30:27,801 - INFO - No changes detected for: 47Brand Rewards Terms and Conditions
+2026-04-16 15:30:27,801 - INFO - 
+Checking: 47Brand Terms and Conditions
+2026-04-16 15:30:27,801 - INFO - URL: https://www.47brand.com/pages/terms-conditions-47brand-com
+2026-04-16 15:30:28,443 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_terms_and_conditions.json (2026-04-16)
+2026-04-16 15:30:28,443 - INFO - No changes detected for: 47Brand Terms and Conditions
+2026-04-16 15:30:28,443 - INFO - 
+Checking: DoorDash Consumer Terms and Conditions
+2026-04-16 15:30:28,443 - INFO - URL: https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US
+2026-04-16 15:30:29,028 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/doordash_consumer_terms_and_conditions.txt
+2026-04-16 15:30:29,029 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/doordash_consumer_terms_and_conditions.json (2026-04-16)
+2026-04-16 15:30:29,029 - INFO - First snapshot captured for: DoorDash Consumer Terms and Conditions
+2026-04-16 15:30:29,029 - INFO - 
+Checking: DoorDash Consumer Terms and Conditions US English Section 12-14
+2026-04-16 15:30:29,029 - INFO - URL: https://help.doordash.com/dashers/s/news/consumer-terms-and-conditions-us-english-section-12-14-MCB5IXJMLM2RDULADEXG3OFNGWMA
+2026-04-16 15:30:29,563 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/doordash_consumer_terms_and_conditions_us_english_section_12_14.txt
+2026-04-16 15:30:29,564 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/doordash_consumer_terms_and_conditions_us_english_section_12_14.json (2026-04-16)
+2026-04-16 15:30:29,564 - INFO - First snapshot captured for: DoorDash Consumer Terms and Conditions US English Section 12-14
+2026-04-16 15:30:29,564 - INFO - 
+Checking: DoorDash Consumer Terms and Conditions AU English
+2026-04-16 15:30:29,564 - INFO - URL: https://help.doordash.com/dashers/s/news/consumer-terms-and-conditions-au-english-MCHRSFWWK4TFBJHCOTRE2QVVCN2I?language=de
+2026-04-16 15:30:30,187 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/doordash_consumer_terms_and_conditions_au_english.txt
+2026-04-16 15:30:30,188 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/doordash_consumer_terms_and_conditions_au_english.json (2026-04-16)
+2026-04-16 15:30:30,188 - INFO - First snapshot captured for: DoorDash Consumer Terms and Conditions AU English
+2026-04-16 15:30:30,188 - INFO - 
+Checking: DoorDash Promotional Terms and Conditions English
+2026-04-16 15:30:30,188 - INFO - URL: https://help.doordash.com/consumers/s/promotional-terms-and-conditions-english?language=en_US&ctry=IN&divcode=MH
+2026-04-16 15:30:30,806 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/doordash_promotional_terms_and_conditions_english.txt
+2026-04-16 15:30:30,806 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/doordash_promotional_terms_and_conditions_english.json (2026-04-16)
+2026-04-16 15:30:30,806 - INFO - First snapshot captured for: DoorDash Promotional Terms and Conditions English
+2026-04-16 15:30:30,806 - INFO - 
+Checking: Royal Caribbean Promotions Terms and Conditions
+2026-04-16 15:30:30,807 - INFO - URL: https://www.royalcaribbean.com/terms-and-conditions/promotions
+2026-04-16 15:30:32,527 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/royal_caribbean_promotions_terms_and_conditions.txt
+2026-04-16 15:30:32,528 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/royal_caribbean_promotions_terms_and_conditions.json (2026-04-16)
+2026-04-16 15:30:32,528 - INFO - First snapshot captured for: Royal Caribbean Promotions Terms and Conditions
+2026-04-16 15:30:32,528 - INFO - 
+Checking: Royal Caribbean UAE Terms and Conditions
+2026-04-16 15:30:32,528 - INFO - URL: https://www.royalcaribbean.ae/terms-and-conditions/
+2026-04-16 15:30:33,136 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/royal_caribbean_uae_terms_and_conditions.txt
+2026-04-16 15:30:33,137 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/royal_caribbean_uae_terms_and_conditions.json (2026-04-16)
+2026-04-16 15:30:33,137 - INFO - First snapshot captured for: Royal Caribbean UAE Terms and Conditions
+2026-04-16 15:30:33,137 - INFO - 
+Checking: Royal Caribbean UK Terms and Conditions
+2026-04-16 15:30:33,137 - INFO - URL: https://www.royalcaribbean.com/gbr/en/terms-and-conditions.co.uk?country=GBR
+2026-04-16 15:30:34,357 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/royal_caribbean_uk_terms_and_conditions.txt
+2026-04-16 15:30:34,358 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/royal_caribbean_uk_terms_and_conditions.json (2026-04-16)
+2026-04-16 15:30:34,358 - INFO - First snapshot captured for: Royal Caribbean UK Terms and Conditions
+2026-04-16 15:30:34,358 - INFO - 
+Checking: Paperless Post Party Shop Terms and Conditions
+2026-04-16 15:30:34,358 - INFO - URL: https://partyshop.paperlesspost.com/pages/terms-conditions
+2026-04-16 15:30:34,925 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/paperless_post_party_shop_terms_and_conditions.txt
+2026-04-16 15:30:34,926 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/paperless_post_party_shop_terms_and_conditions.json (2026-04-16)
+2026-04-16 15:30:34,926 - INFO - First snapshot captured for: Paperless Post Party Shop Terms and Conditions
+2026-04-16 15:30:34,926 - INFO - 
+Checking: Carhartt Terms and Conditions
+2026-04-16 15:30:34,926 - INFO - URL: https://www.carhartt.com/terms-conditions
+2026-04-16 15:30:35,995 - ERROR - Failed to fetch Carhartt Terms and Conditions: 403 Client Error: Forbidden for url: https://www.carhartt.com/terms-conditions
+2026-04-16 15:30:35,997 - INFO - 
+Checking: Carhartt WIP US Terms
+2026-04-16 15:30:35,998 - INFO - URL: https://us.carhartt-wip.com/en-us/terms
+2026-04-16 15:30:40,232 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/carhartt_wip_us_terms.txt
+2026-04-16 15:30:40,233 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/carhartt_wip_us_terms.json (2026-04-16)
+2026-04-16 15:30:40,233 - INFO - First snapshot captured for: Carhartt WIP US Terms
+2026-04-16 15:30:40,233 - INFO - 
+Checking: Carhartt WIP DE Terms
+2026-04-16 15:30:40,233 - INFO - URL: https://www.carhartt-wip.com/en-de/i/terms?srsltid=AfmBOopT5OKdNNxy7LmKCduP3dzn6PBKj0oDMtqhb7bfGIt_LDebrOrl
+2026-04-16 15:30:41,149 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/carhartt_wip_de_terms.txt
+2026-04-16 15:30:41,150 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/carhartt_wip_de_terms.json (2026-04-16)
+2026-04-16 15:30:41,150 - INFO - First snapshot captured for: Carhartt WIP DE Terms
+2026-04-16 15:30:41,150 - INFO - 
+Checking: Carhartt Company Gear Terms and Conditions
+2026-04-16 15:30:41,150 - INFO - URL: https://companygear.carhartt.com/terms-and-conditions/
+2026-04-16 15:30:41,956 - ERROR - Failed to fetch Carhartt Company Gear Terms and Conditions: 403 Client Error: Forbidden for url: https://companygear.carhartt.com/terms-and-conditions/
+2026-04-16 15:30:41,958 - INFO - 
+Checking: Yahoo Terms of Service
+2026-04-16 15:30:41,958 - INFO - URL: https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html
+2026-04-16 15:30:44,269 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/yahoo_terms_of_service.txt
+2026-04-16 15:30:44,270 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/yahoo_terms_of_service.json (2026-04-16)
+2026-04-16 15:30:44,270 - INFO - First snapshot captured for: Yahoo Terms of Service
+2026-04-16 15:30:44,270 - INFO - 
+Checking: Yahoo Advertising Terms
+2026-04-16 15:30:44,270 - INFO - URL: https://legal.yahoo.com/us/en/yahoo/terms/advertising-322/index.html
+2026-04-16 15:30:46,281 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/yahoo_advertising_terms.txt
+2026-04-16 15:30:46,282 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/yahoo_advertising_terms.json (2026-04-16)
+2026-04-16 15:30:46,282 - INFO - First snapshot captured for: Yahoo Advertising Terms
+2026-04-16 15:30:46,283 - INFO - 
+Checking: eBay Coded Coupons Buyer Terms
+2026-04-16 15:30:46,283 - INFO - URL: https://pages.ebay.com/specialoffers/codedcoupons_buyerterms.html
+2026-04-16 15:30:46,866 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/ebay_coded_coupons_buyer_terms.txt
+2026-04-16 15:30:46,866 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ebay_coded_coupons_buyer_terms.json (2026-04-16)
+2026-04-16 15:30:46,866 - INFO - First snapshot captured for: eBay Coded Coupons Buyer Terms
+2026-04-16 15:30:46,866 - INFO - 
+Checking: eBay Social Sharing Terms
+2026-04-16 15:30:46,866 - INFO - URL: https://pages.ebay.com/social/sharing/terms.html
+2026-04-16 15:30:47,370 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/ebay_social_sharing_terms.txt
+2026-04-16 15:30:47,371 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ebay_social_sharing_terms.json (2026-04-16)
+2026-04-16 15:30:47,371 - INFO - First snapshot captured for: eBay Social Sharing Terms
+2026-04-16 15:30:47,371 - INFO - 
+Checking: eBay International Shipping Program Buyer Terms
+2026-04-16 15:30:47,371 - INFO - URL: https://pages.ebay.com/internationalshippingprogram/buyer/terms/
+2026-04-16 15:30:48,660 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/ebay_international_shipping_program_buyer_terms.txt
+2026-04-16 15:30:48,661 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ebay_international_shipping_program_buyer_terms.json (2026-04-16)
+2026-04-16 15:30:48,662 - INFO - First snapshot captured for: eBay International Shipping Program Buyer Terms
+2026-04-16 15:30:48,662 - INFO - 
+Checking: Discord Terms
+2026-04-16 15:30:48,662 - INFO - URL: https://discord.com/terms
+2026-04-16 15:30:49,220 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/discord_terms.txt
+2026-04-16 15:30:49,221 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/discord_terms.json (2026-04-16)
+2026-04-16 15:30:49,221 - INFO - First snapshot captured for: Discord Terms
+2026-04-16 15:30:49,221 - INFO - 
+Checking: Activision Terms of Use
+2026-04-16 15:30:49,221 - INFO - URL: https://www.activision.com/legal/terms-of-use
+2026-04-16 15:30:51,023 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/activision_terms_of_use.txt
+2026-04-16 15:30:51,024 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/activision_terms_of_use.json (2026-04-16)
+2026-04-16 15:30:51,024 - INFO - First snapshot captured for: Activision Terms of Use
+2026-04-16 15:30:51,024 - INFO - 
+Checking: Formula 1 Official F1 Race Guide App Terms and Conditions
+2026-04-16 15:30:51,024 - INFO - URL: https://www.formula1.com/en/information/official-f1-race-guide-app-terms-and-conditions.6vXQ9RT3vCLLDDeyRSUPe7
+2026-04-16 15:30:51,695 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/formula_1_official_f1_race_guide_app_terms_and_conditions.txt
+2026-04-16 15:30:51,695 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/formula_1_official_f1_race_guide_app_terms_and_conditions.json (2026-04-16)
+2026-04-16 15:30:51,695 - INFO - First snapshot captured for: Formula 1 Official F1 Race Guide App Terms and Conditions
+2026-04-16 15:30:51,695 - INFO - 
+Checking: Nintendo US Terms of Use
+2026-04-16 15:30:51,695 - INFO - URL: https://www.nintendo.com/us/terms-of-use/
+2026-04-16 15:30:52,520 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/nintendo_us_terms_of_use.txt
+2026-04-16 15:30:52,521 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/nintendo_us_terms_of_use.json (2026-04-16)
+2026-04-16 15:30:52,521 - INFO - First snapshot captured for: Nintendo US Terms of Use
+2026-04-16 15:30:52,521 - INFO - 
+Checking: Nintendo US Purchase Terms
+2026-04-16 15:30:52,521 - INFO - URL: https://www.nintendo.com/us/purchase-terms/
+2026-04-16 15:30:53,188 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/nintendo_us_purchase_terms.txt
+2026-04-16 15:30:53,189 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/nintendo_us_purchase_terms.json (2026-04-16)
+2026-04-16 15:30:53,189 - INFO - First snapshot captured for: Nintendo US Purchase Terms
+2026-04-16 15:30:53,189 - INFO - 
+Checking: Nintendo UK Terms of Service
+2026-04-16 15:30:53,189 - INFO - URL: https://www.nintendo.com/en-gb/Legal-information/Terms-of-service-570453.html
+2026-04-16 15:30:53,457 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/nintendo_uk_terms_of_service.txt
+2026-04-16 15:30:53,458 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/nintendo_uk_terms_of_service.json (2026-04-16)
+2026-04-16 15:30:53,458 - INFO - First snapshot captured for: Nintendo UK Terms of Service
+2026-04-16 15:30:53,458 - INFO - 
+Checking: Nintendo Canada Gift Card Terms
+2026-04-16 15:30:53,458 - INFO - URL: https://www.nintendo.com/en-ca/giftcards/terms/
+2026-04-16 15:30:54,248 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/nintendo_canada_gift_card_terms.txt
+2026-04-16 15:30:54,248 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/nintendo_canada_gift_card_terms.json (2026-04-16)
+2026-04-16 15:30:54,249 - INFO - First snapshot captured for: Nintendo Canada Gift Card Terms
+2026-04-16 15:30:54,249 - INFO - 
+Checking: Redfin Terms of Use
+2026-04-16 15:30:54,249 - INFO - URL: https://www.redfin.com/about/terms-of-use
+2026-04-16 15:30:56,088 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/redfin_terms_of_use.txt
+2026-04-16 15:30:56,090 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/redfin_terms_of_use.json (2026-04-16)
+2026-04-16 15:30:56,090 - INFO - First snapshot captured for: Redfin Terms of Use
+2026-04-16 15:30:56,090 - INFO - 
+Checking: Redfin Terms and Conditions
+2026-04-16 15:30:56,090 - INFO - URL: https://support.redfin.com/hc/en-us/articles/360001454551-Terms-and-Conditions
+2026-04-16 15:30:57,095 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/redfin_terms_and_conditions.txt
+2026-04-16 15:30:57,095 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/redfin_terms_and_conditions.json (2026-04-16)
+2026-04-16 15:30:57,096 - INFO - First snapshot captured for: Redfin Terms and Conditions
+2026-04-16 15:30:57,096 - INFO - 
+Checking: Hoopla Terms
+2026-04-16 15:30:57,096 - INFO - URL: https://www.hoopladigital.com/terms
+2026-04-16 15:30:57,560 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/hoopla_terms.txt
+2026-04-16 15:30:57,561 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/hoopla_terms.json (2026-04-16)
+2026-04-16 15:30:57,561 - INFO - First snapshot captured for: Hoopla Terms
+2026-04-16 15:30:57,561 - INFO - 
+Checking: Hoopla Audiobook Terms and Conditions Lauren Asher
+2026-04-16 15:30:57,561 - INFO - URL: https://www.hoopladigital.com/audiobook/terms-and-conditions-lauren-asher/15210357
+2026-04-16 15:30:57,960 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/hoopla_audiobook_terms_and_conditions_lauren_asher.txt
+2026-04-16 15:30:57,962 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/hoopla_audiobook_terms_and_conditions_lauren_asher.json (2026-04-16)
+2026-04-16 15:30:57,962 - INFO - First snapshot captured for: Hoopla Audiobook Terms and Conditions Lauren Asher
+2026-04-16 15:30:57,962 - INFO - 
+Checking: Hoopla UK Terms of Use
+2026-04-16 15:30:57,962 - INFO - URL: https://hoopladigital.co.uk/terms-of-use/
+2026-04-16 15:30:59,003 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/hoopla_uk_terms_of_use.txt
+2026-04-16 15:30:59,003 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/hoopla_uk_terms_of_use.json (2026-04-16)
+2026-04-16 15:30:59,003 - INFO - First snapshot captured for: Hoopla UK Terms of Use
+2026-04-16 15:30:59,004 - INFO - 
+Checking: 305 Fitness Terms of Service
+2026-04-16 15:30:59,004 - INFO - URL: https://www.305fitness.com/terms-of-service
+2026-04-16 15:30:59,493 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/305_fitness_terms_of_service.txt
+2026-04-16 15:30:59,494 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/305_fitness_terms_of_service.json (2026-04-16)
+2026-04-16 15:30:59,494 - INFO - First snapshot captured for: 305 Fitness Terms of Service
+2026-04-16 15:30:59,494 - INFO - 
+Checking: Bandai Namco Terms
+2026-04-16 15:30:59,494 - INFO - URL: https://www.bandainamcoent.com/legal/terms
+2026-04-16 15:31:03,571 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/bandai_namco_terms.txt
+2026-04-16 15:31:03,573 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/bandai_namco_terms.json (2026-04-16)
+2026-04-16 15:31:03,573 - INFO - First snapshot captured for: Bandai Namco Terms
+2026-04-16 15:31:03,573 - INFO - 
+Checking: Baseball America Terms of Use
+2026-04-16 15:31:03,573 - INFO - URL: https://www.baseballamerica.com/terms-of-use/
+2026-04-16 15:31:04,245 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/baseball_america_terms_of_use.txt
+2026-04-16 15:31:04,246 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/baseball_america_terms_of_use.json (2026-04-16)
+2026-04-16 15:31:04,246 - INFO - First snapshot captured for: Baseball America Terms of Use
+2026-04-16 15:31:04,246 - INFO - 
+Checking: Birds and Blooms Hidden Object Official Rules
+2026-04-16 15:31:04,246 - INFO - URL: https://www.birdsandblooms.com/birds-blooms-hidden-object-official-rules/
+2026-04-16 15:31:04,565 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/birds_and_blooms_hidden_object_official_rules.txt
+2026-04-16 15:31:04,566 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/birds_and_blooms_hidden_object_official_rules.json (2026-04-16)
+2026-04-16 15:31:04,566 - INFO - First snapshot captured for: Birds and Blooms Hidden Object Official Rules
+2026-04-16 15:31:04,566 - INFO - 
+Checking: CorePower Yoga Terms of Use
+2026-04-16 15:31:04,566 - INFO - URL: https://www.corepoweryoga.com/content/terms-use
+2026-04-16 15:31:05,094 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/corepower_yoga_terms_of_use.txt
+2026-04-16 15:31:05,104 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/corepower_yoga_terms_of_use.json (2026-04-16)
+2026-04-16 15:31:05,104 - INFO - First snapshot captured for: CorePower Yoga Terms of Use
+2026-04-16 15:31:05,104 - INFO - 
+Checking: CorePower Yoga Student Terms and Conditions
+2026-04-16 15:31:05,104 - INFO - URL: https://www.corepoweryoga.com/content/student-terms-conditions
+2026-04-16 15:31:05,547 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/corepower_yoga_student_terms_and_conditions.txt
+2026-04-16 15:31:05,549 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/corepower_yoga_student_terms_and_conditions.json (2026-04-16)
+2026-04-16 15:31:05,549 - INFO - First snapshot captured for: CorePower Yoga Student Terms and Conditions
+2026-04-16 15:31:05,549 - INFO - 
+Checking: Criterion Terms
+2026-04-16 15:31:05,549 - INFO - URL: https://www.criterion.com/terms?srsltid=AfmBOoqHIf_tHIBfLgXJCw-OBaUsLcBm5suDfiCDBavrhMIeTHWQU6OF
+2026-04-16 15:31:05,732 - ERROR - Failed to fetch Criterion Terms: 403 Client Error: Forbidden for url: https://www.criterion.com/terms?srsltid=AfmBOoqHIf_tHIBfLgXJCw-OBaUsLcBm5suDfiCDBavrhMIeTHWQU6OF
+2026-04-16 15:31:05,733 - INFO - 
+Checking: Criterion Channel Terms of Service
+2026-04-16 15:31:05,733 - INFO - URL: https://www.criterionchannel.com/tos
+2026-04-16 15:31:06,545 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/criterion_channel_terms_of_service.txt
+2026-04-16 15:31:06,547 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/criterion_channel_terms_of_service.json (2026-04-16)
+2026-04-16 15:31:06,547 - INFO - First snapshot captured for: Criterion Channel Terms of Service
+2026-04-16 15:31:06,547 - INFO - 
+Checking: Crypto.com Exchange Privacy
+2026-04-16 15:31:06,547 - INFO - URL: https://crypto.com/exchange/document/privacy
+2026-04-16 15:31:06,561 - ERROR - Failed to fetch Crypto.com Exchange Privacy: HTTPSConnectionPool(host='crypto.com', port=443): Max retries exceeded with url: /exchange/document/privacy (Caused by NewConnectionError("HTTPSConnection(host='crypto.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused"))
+2026-04-16 15:31:06,561 - INFO - 
+Checking: Crypto.com Exchange Terms and Conditions
+2026-04-16 15:31:06,561 - INFO - URL: https://crypto.com/exchange/document/tnc
+2026-04-16 15:31:06,564 - ERROR - Failed to fetch Crypto.com Exchange Terms and Conditions: HTTPSConnectionPool(host='crypto.com', port=443): Max retries exceeded with url: /exchange/document/tnc (Caused by NewConnectionError("HTTPSConnection(host='crypto.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused"))
+2026-04-16 15:31:06,564 - INFO - 
+Checking: DKOldies Terms and Conditions
+2026-04-16 15:31:06,564 - INFO - URL: https://www.dkoldies.com/terms-and-conditions/
+2026-04-16 15:31:08,490 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/dkoldies_terms_and_conditions.txt
+2026-04-16 15:31:08,490 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/dkoldies_terms_and_conditions.json (2026-04-16)
+2026-04-16 15:31:08,490 - INFO - First snapshot captured for: DKOldies Terms and Conditions
+2026-04-16 15:31:08,490 - INFO - 
+Checking: EA User Agreement
+2026-04-16 15:31:08,490 - INFO - URL: https://www.ea.com/legal/user-agreement
+2026-04-16 15:31:10,607 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/ea_user_agreement.txt
+2026-04-16 15:31:10,608 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ea_user_agreement.json (2026-04-16)
+2026-04-16 15:31:10,608 - INFO - First snapshot captured for: EA User Agreement
+2026-04-16 15:31:10,608 - INFO - 
+Checking: EA Terms of Sale
+2026-04-16 15:31:10,608 - INFO - URL: https://www.ea.com/legal/terms-of-sale
+2026-04-16 15:31:11,948 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/ea_terms_of_sale.txt
+2026-04-16 15:31:11,949 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ea_terms_of_sale.json (2026-04-16)
+2026-04-16 15:31:11,949 - INFO - First snapshot captured for: EA Terms of Sale
+2026-04-16 15:31:11,949 - INFO - 
+Checking: EA Play Terms
+2026-04-16 15:31:11,949 - INFO - URL: https://www.ea.com/legal/ea-play-terms
+2026-04-16 15:31:13,196 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/ea_play_terms.txt
+2026-04-16 15:31:13,196 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ea_play_terms.json (2026-04-16)
+2026-04-16 15:31:13,197 - INFO - First snapshot captured for: EA Play Terms
+2026-04-16 15:31:13,197 - INFO - 
+Checking: Game Over Videogames Terms of Use
+2026-04-16 15:31:13,197 - INFO - URL: https://gameovergames.com/terms-of-use/
+2026-04-16 15:31:14,349 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/game_over_videogames_terms_of_use.txt
+2026-04-16 15:31:14,349 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/game_over_videogames_terms_of_use.json (2026-04-16)
+2026-04-16 15:31:14,349 - INFO - First snapshot captured for: Game Over Videogames Terms of Use
+2026-04-16 15:31:14,349 - INFO - 
+Checking: GameFly Terms of Use
+2026-04-16 15:31:14,350 - INFO - URL: https://www.gamefly.com/terms-of-use?srsltid=AfmBOopNrKpQyLUcGwbRwLj6xJ6vsCLufM2Qm_TNO5nMNWmR7r5RbvQY
+2026-04-16 15:31:15,632 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/gamefly_terms_of_use.txt
+2026-04-16 15:31:15,633 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/gamefly_terms_of_use.json (2026-04-16)
+2026-04-16 15:31:15,633 - INFO - First snapshot captured for: GameFly Terms of Use
+2026-04-16 15:31:15,633 - INFO - 
+Checking: Google Assistant Community Terms
+2026-04-16 15:31:15,633 - INFO - URL: https://developers.google.com/assistant/community/terms
+2026-04-16 15:31:16,335 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/google_assistant_community_terms.txt
+2026-04-16 15:31:16,336 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/google_assistant_community_terms.json (2026-04-16)
+2026-04-16 15:31:16,336 - INFO - First snapshot captured for: Google Assistant Community Terms
+2026-04-16 15:31:16,336 - INFO - 
+Checking: Google Assistant Product Terms
+2026-04-16 15:31:16,336 - INFO - URL: https://transparency.google/intl/en/our-policies/product-terms/google-assistant/
+2026-04-16 15:31:16,528 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/google_assistant_product_terms.txt
+2026-04-16 15:31:16,528 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/google_assistant_product_terms.json (2026-04-16)
+2026-04-16 15:31:16,528 - INFO - First snapshot captured for: Google Assistant Product Terms
+2026-04-16 15:31:16,528 - INFO - 
+Checking: iam8bit Terms Conditions Policy
+2026-04-16 15:31:16,528 - INFO - URL: https://www.iam8bit.com/pages/terms-conditions-policy
+2026-04-16 15:31:17,342 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/iam8bit_terms_conditions_policy.txt
+2026-04-16 15:31:17,343 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/iam8bit_terms_conditions_policy.json (2026-04-16)
+2026-04-16 15:31:17,343 - INFO - First snapshot captured for: iam8bit Terms Conditions Policy
+2026-04-16 15:31:17,343 - INFO - 
+Checking: iam8bit Policies
+2026-04-16 15:31:17,343 - INFO - URL: https://www.iam8bit.com/pages/policies
+2026-04-16 15:31:17,606 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/iam8bit_policies.txt
+2026-04-16 15:31:17,607 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/iam8bit_policies.json (2026-04-16)
+2026-04-16 15:31:17,607 - INFO - First snapshot captured for: iam8bit Policies
+2026-04-16 15:31:17,607 - INFO - 
+Checking: iam8bit Privacy Policy
+2026-04-16 15:31:17,607 - INFO - URL: https://www.iam8bit.com/pages/privacy-policy
+2026-04-16 15:31:18,036 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/iam8bit_privacy_policy.txt
+2026-04-16 15:31:18,037 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/iam8bit_privacy_policy.json (2026-04-16)
+2026-04-16 15:31:18,037 - INFO - First snapshot captured for: iam8bit Privacy Policy
+2026-04-16 15:31:18,037 - INFO - 
+Checking: Kick Terms of Service
+2026-04-16 15:31:18,037 - INFO - URL: https://kick.com/terms-of-service
+2026-04-16 15:31:18,806 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/kick_terms_of_service.txt
+2026-04-16 15:31:18,807 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/kick_terms_of_service.json (2026-04-16)
+2026-04-16 15:31:18,808 - INFO - First snapshot captured for: Kick Terms of Service
+2026-04-16 15:31:18,808 - INFO - 
+Checking: Kick Partner Terms and Conditions
+2026-04-16 15:31:18,808 - INFO - URL: https://kick.com/partner-terms-and-conditions
+2026-04-16 15:31:20,014 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/kick_partner_terms_and_conditions.txt
+2026-04-16 15:31:20,015 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/kick_partner_terms_and_conditions.json (2026-04-16)
+2026-04-16 15:31:20,015 - INFO - First snapshot captured for: Kick Partner Terms and Conditions
+2026-04-16 15:31:20,015 - INFO - 
+Checking: Xbox Subscription Terms
+2026-04-16 15:31:20,015 - INFO - URL: https://www.xbox.com/en-IN/legal/subscription-terms
+2026-04-16 15:31:21,405 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/xbox_subscription_terms.txt
+2026-04-16 15:31:21,406 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/xbox_subscription_terms.json (2026-04-16)
+2026-04-16 15:31:21,406 - INFO - First snapshot captured for: Xbox Subscription Terms
+2026-04-16 15:31:21,406 - INFO - 
+Checking: Xbox Web Purchase Terms
+2026-04-16 15:31:21,406 - INFO - URL: https://www.xbox.com/en-IN/legal/web-purchase
+2026-04-16 15:31:22,680 - ERROR - Failed to fetch Xbox Web Purchase Terms: 404 Client Error: Not Found for url: https://www.xbox.com/en-IN/legal/web-purchase
+2026-04-16 15:31:22,682 - INFO - 
+Checking: PGA TOUR Tickets and Merchandise Terms and Conditions
+2026-04-16 15:31:22,683 - INFO - URL: https://www.pgatour.com/company/terms-conditions-tickets-and-merchandise
+2026-04-16 15:31:25,295 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/pga_tour_tickets_and_merchandise_terms_and_conditions.txt
+2026-04-16 15:31:25,296 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/pga_tour_tickets_and_merchandise_terms_and_conditions.json (2026-04-16)
+2026-04-16 15:31:25,296 - INFO - First snapshot captured for: PGA TOUR Tickets and Merchandise Terms and Conditions
+2026-04-16 15:31:25,296 - INFO - 
+Checking: PGA TOUR Terms of Use
+2026-04-16 15:31:25,296 - INFO - URL: https://www.pgatour.com/company/terms-of-use
+2026-04-16 15:31:27,157 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/pga_tour_terms_of_use.txt
+2026-04-16 15:31:27,158 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/pga_tour_terms_of_use.json (2026-04-16)
+2026-04-16 15:31:27,158 - INFO - First snapshot captured for: PGA TOUR Terms of Use
+2026-04-16 15:31:27,158 - INFO - 
+Checking: Pvolve Terms of Service
+2026-04-16 15:31:27,158 - INFO - URL: https://www.pvolve.com/policies/terms-of-service?srsltid=AfmBOoqMxgGLW17FSojeSIBgMvuQApDx-G0oX10TWbOGLJ-XtagqbxH2
+2026-04-16 15:31:27,410 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/pvolve_terms_of_service.txt
+2026-04-16 15:31:27,410 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/pvolve_terms_of_service.json (2026-04-16)
+2026-04-16 15:31:27,410 - INFO - First snapshot captured for: Pvolve Terms of Service
+2026-04-16 15:31:27,410 - INFO - 
+Checking: Pvolve Terms of Service Page 2
+2026-04-16 15:31:27,410 - INFO - URL: https://www.pvolve.com/policies/terms-of-service?page=2&srsltid=AfmBOora5D6RkYgBsrQzHBqTr0DdaxYGlPgiSm77Nipr3y4v8rvpEHuK
+2026-04-16 15:31:27,662 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/pvolve_terms_of_service_page_2.txt
+2026-04-16 15:31:27,663 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/pvolve_terms_of_service_page_2.json (2026-04-16)
+2026-04-16 15:31:27,663 - INFO - First snapshot captured for: Pvolve Terms of Service Page 2
+2026-04-16 15:31:27,663 - INFO - 
+Checking: Pvolve Ultimate Giveaway 2025 Terms and Conditions
+2026-04-16 15:31:27,663 - INFO - URL: https://www.pvolve.com/pages/terms-conditions-ultimate-giveaway-2025?srsltid=AfmBOorXYZAWGpkB85_Cmz6VuPZ7b5YnyImKsRyiHp7c5MGcRQrUnOsp
+2026-04-16 15:31:28,280 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/pvolve_ultimate_giveaway_2025_terms_and_conditions.txt
+2026-04-16 15:31:28,280 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/pvolve_ultimate_giveaway_2025_terms_and_conditions.json (2026-04-16)
+2026-04-16 15:31:28,280 - INFO - First snapshot captured for: Pvolve Ultimate Giveaway 2025 Terms and Conditions
+2026-04-16 15:31:28,280 - INFO - 
+Checking: Quince Privacy Policy
+2026-04-16 15:31:28,280 - INFO - URL: https://www.quince.com/privacy-policy?srsltid=AfmBOorDGXgSLYQALnnpy2FCZsaA5J8pzdUK74zfteFSaQZMpnpJgvd0
+2026-04-16 15:31:29,995 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/quince_privacy_policy.txt
+2026-04-16 15:31:29,996 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/quince_privacy_policy.json (2026-04-16)
+2026-04-16 15:31:29,997 - INFO - First snapshot captured for: Quince Privacy Policy
+2026-04-16 15:31:29,997 - INFO - 
+Checking: Quince Terms
+2026-04-16 15:31:29,997 - INFO - URL: https://www.quince.com/terms?srsltid=AfmBOopmxy-iYsOpaSa17WxlmBwrvPClfouahF7_qgwm6ElqSLk6DcyH
+2026-04-16 15:31:31,558 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/quince_terms.txt
+2026-04-16 15:31:31,558 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/quince_terms.json (2026-04-16)
+2026-04-16 15:31:31,558 - INFO - First snapshot captured for: Quince Terms
+2026-04-16 15:31:31,559 - INFO - 
+Checking: Reader's Digest Terms of Use
+2026-04-16 15:31:31,559 - INFO - URL: https://www.readersdigest.in/terms-of-use
+2026-04-16 15:31:32,520 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/reader_s_digest_terms_of_use.txt
+2026-04-16 15:31:32,520 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/reader_s_digest_terms_of_use.json (2026-04-16)
+2026-04-16 15:31:32,520 - INFO - First snapshot captured for: Reader's Digest Terms of Use
+2026-04-16 15:31:32,520 - INFO - 
+Checking: Reader's Digest Gift Rules
+2026-04-16 15:31:32,520 - INFO - URL: https://subscription.readersdigest.in/rdindia/giftedm/s100rules.html
+2026-04-16 15:31:34,415 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/reader_s_digest_gift_rules.txt
+2026-04-16 15:31:34,417 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/reader_s_digest_gift_rules.json (2026-04-16)
+2026-04-16 15:31:34,417 - INFO - First snapshot captured for: Reader's Digest Gift Rules
+2026-04-16 15:31:34,417 - INFO - 
+Checking: SiriusXM Media Terms
+2026-04-16 15:31:34,417 - INFO - URL: https://www.siriusxmmedia.com/terms
+2026-04-16 15:31:36,503 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/siriusxm_media_terms.txt
+2026-04-16 15:31:36,503 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/siriusxm_media_terms.json (2026-04-16)
+2026-04-16 15:31:36,503 - INFO - First snapshot captured for: SiriusXM Media Terms
+2026-04-16 15:31:36,504 - INFO - 
+Checking: SiriusXM Customer Agreement
+2026-04-16 15:31:36,504 - INFO - URL: https://www.siriusxm.com/customer-agreement
+2026-04-16 15:31:37,560 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/siriusxm_customer_agreement.txt
+2026-04-16 15:31:37,561 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/siriusxm_customer_agreement.json (2026-04-16)
+2026-04-16 15:31:37,562 - INFO - First snapshot captured for: SiriusXM Customer Agreement
+2026-04-16 15:31:37,562 - INFO - 
+Checking: Starz Terms of Use
+2026-04-16 15:31:37,562 - INFO - URL: https://www.starz.com/us/en/termsofuse
+2026-04-16 15:31:39,826 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/starz_terms_of_use.txt
+2026-04-16 15:31:39,827 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/starz_terms_of_use.json (2026-04-16)
+2026-04-16 15:31:39,827 - INFO - First snapshot captured for: Starz Terms of Use
+2026-04-16 15:31:39,827 - INFO - 
+Checking: Starz SPI Terms Web BR EN
+2026-04-16 15:31:39,827 - INFO - URL: https://resources.starz.com/legal/spi-terms-web-br-en.html
+2026-04-16 15:31:40,549 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/starz_spi_terms_web_br_en.txt
+2026-04-16 15:31:40,550 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/starz_spi_terms_web_br_en.json (2026-04-16)
+2026-04-16 15:31:40,550 - INFO - First snapshot captured for: Starz SPI Terms Web BR EN
+2026-04-16 15:31:40,550 - INFO - 
+Checking: Starz SPI Terms Web FI EN
+2026-04-16 15:31:40,550 - INFO - URL: https://resources.starz.com/legal/spi-terms-web-fi-en.html
+2026-04-16 15:31:41,317 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/starz_spi_terms_web_fi_en.txt
+2026-04-16 15:31:41,318 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/starz_spi_terms_web_fi_en.json (2026-04-16)
+2026-04-16 15:31:41,318 - INFO - First snapshot captured for: Starz SPI Terms Web FI EN
+2026-04-16 15:31:41,318 - INFO - 
+Checking: TaxAct Terms of Service
+2026-04-16 15:31:41,318 - INFO - URL: https://www.taxact.com/terms-of-service
+2026-04-16 15:31:43,002 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/taxact_terms_of_service.txt
+2026-04-16 15:31:43,003 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/taxact_terms_of_service.json (2026-04-16)
+2026-04-16 15:31:43,003 - INFO - First snapshot captured for: TaxAct Terms of Service
+2026-04-16 15:31:43,003 - INFO - 
+Checking: TaxAct Terms of Service Printable
+2026-04-16 15:31:43,003 - INFO - URL: https://www.taxact.com/terms-of-service/printable
+2026-04-16 15:31:44,270 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/taxact_terms_of_service_printable.txt
+2026-04-16 15:31:44,271 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/taxact_terms_of_service_printable.json (2026-04-16)
+2026-04-16 15:31:44,271 - INFO - First snapshot captured for: TaxAct Terms of Service Printable
+2026-04-16 15:31:44,271 - INFO - 
+Checking: TaxAct Free File Terms of Service
+2026-04-16 15:31:44,271 - INFO - URL: https://www.taxact.com/ffa/free-file/terms-of-service
+2026-04-16 15:31:45,519 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/taxact_free_file_terms_of_service.txt
+2026-04-16 15:31:45,520 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/taxact_free_file_terms_of_service.json (2026-04-16)
+2026-04-16 15:31:45,520 - INFO - First snapshot captured for: TaxAct Free File Terms of Service
+2026-04-16 15:31:45,520 - INFO - 
+Checking: TaxAct VITA Terms of Service
+2026-04-16 15:31:45,520 - INFO - URL: https://www.taxact.com/ffa/vita/terms-of-service
+2026-04-16 15:31:46,819 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/taxact_vita_terms_of_service.txt
+2026-04-16 15:31:46,820 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/taxact_vita_terms_of_service.json (2026-04-16)
+2026-04-16 15:31:46,820 - INFO - First snapshot captured for: TaxAct VITA Terms of Service
+2026-04-16 15:31:46,820 - INFO - 
+Checking: TaxAct Refer Terms
+2026-04-16 15:31:46,820 - INFO - URL: https://refer.taxact.com/zone/terms?campaign_id=6766300849289157074
+2026-04-16 15:31:47,819 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/taxact_refer_terms.txt
+2026-04-16 15:31:47,820 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/taxact_refer_terms.json (2026-04-16)
+2026-04-16 15:31:47,820 - INFO - First snapshot captured for: TaxAct Refer Terms
+2026-04-16 15:31:57,813 - INFO - Email sent: [Page Monitor] First snapshots captured - DoorDash
+2026-04-16 15:32:07,540 - INFO - Email sent: [Page Monitor] First snapshots captured - Royal Caribbean
+2026-04-16 15:32:16,818 - INFO - Email sent: [Page Monitor] First snapshots captured - Paperless Post
+2026-04-16 15:32:26,124 - INFO - Email sent: [Page Monitor] First snapshots captured - Carhartt
+2026-04-16 15:32:37,031 - INFO - Email sent: [Page Monitor] First snapshots captured - Yahoo
+2026-04-16 15:32:46,758 - INFO - Email sent: [Page Monitor] First snapshots captured - eBay
+2026-04-16 15:32:56,187 - INFO - Email sent: [Page Monitor] First snapshots captured - Discord
+2026-04-16 15:33:06,517 - INFO - Email sent: [Page Monitor] First snapshots captured - Activision
+2026-04-16 15:33:16,148 - INFO - Email sent: [Page Monitor] First snapshots captured - Formula 1
+2026-04-16 15:33:25,877 - INFO - Email sent: [Page Monitor] First snapshots captured - Nintendo
+2026-04-16 15:33:37,654 - INFO - Email sent: [Page Monitor] First snapshots captured - Redfin
+2026-04-16 15:33:46,616 - INFO - Email sent: [Page Monitor] First snapshots captured - Hoopla
+2026-04-16 15:33:55,697 - INFO - Email sent: [Page Monitor] First snapshots captured - 305 Fitness
+2026-04-16 15:34:04,669 - INFO - Email sent: [Page Monitor] First snapshots captured - Bandai Namco
+2026-04-16 15:34:13,697 - INFO - Email sent: [Page Monitor] First snapshots captured - Baseball America
+2026-04-16 15:34:22,731 - INFO - Email sent: [Page Monitor] First snapshots captured - Birds and Blooms
+2026-04-16 15:34:31,414 - INFO - Email sent: [Page Monitor] First snapshots captured - CorePower Yoga
+2026-04-16 15:34:39,667 - INFO - Email sent: [Page Monitor] First snapshots captured - Criterion
+2026-04-16 15:34:48,615 - INFO - Email sent: [Page Monitor] First snapshots captured - DKOldies
+2026-04-16 15:34:58,266 - INFO - Email sent: [Page Monitor] First snapshots captured - Electronic Arts
+2026-04-16 15:35:07,254 - INFO - Email sent: [Page Monitor] First snapshots captured - Game Over Videogames
+2026-04-16 15:35:16,454 - INFO - Email sent: [Page Monitor] First snapshots captured - GameFly
+2026-04-16 15:35:25,479 - INFO - Email sent: [Page Monitor] First snapshots captured - Google Assistant
+2026-04-16 15:35:35,105 - INFO - Email sent: [Page Monitor] First snapshots captured - iam8bit
+2026-04-16 15:35:44,527 - INFO - Email sent: [Page Monitor] First snapshots captured - Kick
+2026-04-16 15:35:53,369 - INFO - Email sent: [Page Monitor] First snapshots captured - Microsoft/Xbox
+2026-04-16 15:36:02,344 - INFO - Email sent: [Page Monitor] First snapshots captured - PGA TOUR
+2026-04-16 15:36:12,211 - INFO - Email sent: [Page Monitor] First snapshots captured - Pvolve
+2026-04-16 15:36:22,519 - INFO - Email sent: [Page Monitor] First snapshots captured - Quince
+2026-04-16 15:36:32,961 - INFO - Email sent: [Page Monitor] First snapshots captured - Reader's Digest
+2026-04-16 15:36:43,426 - INFO - Email sent: [Page Monitor] First snapshots captured - SiriusXM
+2026-04-16 15:36:53,441 - INFO - Email sent: [Page Monitor] First snapshots captured - Starz
+2026-04-16 15:37:04,527 - INFO - Email sent: [Page Monitor] First snapshots captured - TaxAct
+2026-04-16 15:37:13,102 - INFO - Email sent: [Page Monitor] ERROR fetching - Carhartt
+2026-04-16 15:37:21,935 - INFO - Email sent: [Page Monitor] ERROR fetching - Criterion
+2026-04-16 15:37:30,651 - INFO - Email sent: [Page Monitor] ERROR fetching - Crypto.com
+2026-04-16 15:37:39,317 - INFO - Email sent: [Page Monitor] ERROR fetching - Microsoft/Xbox
+2026-04-16 15:37:39,318 - INFO - 
+Run complete. Changes found: 0
+2026-04-16 15:37:39,318 - INFO - ============================================================

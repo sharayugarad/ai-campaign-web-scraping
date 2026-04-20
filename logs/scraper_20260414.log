@@ -1,0 +1,28 @@
+2026-04-14 09:00:01,346 - INFO - ============================================================
+2026-04-14 09:00:01,347 - INFO - Web Page Change Monitor - Starting run
+2026-04-14 09:00:01,347 - INFO - Timestamp: 2026-04-14T09:00:01.347223
+2026-04-14 09:00:01,347 - INFO - ============================================================
+2026-04-14 09:00:01,349 - INFO - 
+Checking: OtterBox Terms of Use
+2026-04-14 09:00:01,349 - INFO - URL: https://www.otterbox.com/en-us/terms-of-use.html
+2026-04-14 09:00:05,604 - INFO - CHANGES DETECTED for: OtterBox Terms of Use
+2026-04-14 09:00:05,605 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/otterbox_terms_of_use.txt
+2026-04-14 09:00:05,609 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/otterbox_terms_of_use.json (2026-04-14)
+2026-04-14 09:00:16,242 - INFO - Email sent: [Page Monitor] Changes detected - OtterBox Terms of Use
+2026-04-14 09:00:16,244 - INFO - 
+Checking: 47Brand Rewards Terms and Conditions
+2026-04-14 09:00:16,244 - INFO - URL: https://www.47brand.com/pages/47-brand-rewards-terms-and-conditions
+2026-04-14 09:00:18,537 - INFO - CHANGES DETECTED for: 47Brand Rewards Terms and Conditions
+2026-04-14 09:00:18,539 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/47brand_rewards_terms_and_conditions.txt
+2026-04-14 09:00:18,543 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_rewards_terms_and_conditions.json (2026-04-14)
+2026-04-14 09:00:29,512 - INFO - Email sent: [Page Monitor] Changes detected - 47Brand Rewards Terms and Conditions
+2026-04-14 09:00:29,513 - INFO - 
+Checking: 47Brand Terms and Conditions
+2026-04-14 09:00:29,513 - INFO - URL: https://www.47brand.com/pages/terms-conditions-47brand-com
+2026-04-14 09:00:31,452 - INFO - CHANGES DETECTED for: 47Brand Terms and Conditions
+2026-04-14 09:00:31,453 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/47brand_terms_and_conditions.txt
+2026-04-14 09:00:31,458 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_terms_and_conditions.json (2026-04-14)
+2026-04-14 09:00:41,718 - INFO - Email sent: [Page Monitor] Changes detected - 47Brand Terms and Conditions
+2026-04-14 09:00:41,760 - INFO - 
+Run complete. Changes found: 3
+2026-04-14 09:00:41,760 - INFO - ============================================================

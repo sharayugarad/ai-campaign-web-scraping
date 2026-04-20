@@ -1,0 +1,942 @@
+2026-03-20 09:00:01,053 - INFO - ============================================================
+2026-03-20 09:00:01,054 - INFO - Web Page Change Monitor - Starting run
+2026-03-20 09:00:01,054 - INFO - Timestamp: 2026-03-20T09:00:01.054238
+2026-03-20 09:00:01,054 - INFO - ============================================================
+2026-03-20 09:00:01,056 - WARNING - python-dotenv could not parse statement starting at line 24
+2026-03-20 09:00:01,056 - INFO - 
+Checking: OtterBox Terms of Use
+2026-03-20 09:00:01,056 - INFO - URL: https://www.otterbox.com/en-us/terms-of-use.html
+2026-03-20 09:00:02,113 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/otterbox_terms_of_use.json (2026-03-20)
+2026-03-20 09:00:02,113 - INFO - No changes detected for: OtterBox Terms of Use
+2026-03-20 09:00:02,113 - INFO - 
+Checking: 47Brand Rewards Terms and Conditions
+2026-03-20 09:00:02,113 - INFO - URL: https://www.47brand.com/pages/47-brand-rewards-terms-and-conditions
+2026-03-20 09:00:02,999 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_rewards_terms_and_conditions.json (2026-03-20)
+2026-03-20 09:00:02,999 - INFO - No changes detected for: 47Brand Rewards Terms and Conditions
+2026-03-20 09:00:02,999 - INFO - 
+Checking: 47Brand Terms and Conditions
+2026-03-20 09:00:02,999 - INFO - URL: https://www.47brand.com/pages/terms-conditions-47brand-com
+2026-03-20 09:00:03,695 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_terms_and_conditions.json (2026-03-20)
+2026-03-20 09:00:03,696 - INFO - No changes detected for: 47Brand Terms and Conditions
+2026-03-20 09:00:03,696 - INFO - 
+Run complete. Changes found: 0
+2026-03-20 09:00:03,696 - INFO - ============================================================
+2026-03-23 09:00:01,513 - INFO - ============================================================
+2026-03-23 09:00:01,513 - INFO - Web Page Change Monitor - Starting run
+2026-03-23 09:00:01,514 - INFO - Timestamp: 2026-03-23T09:00:01.513990
+2026-03-23 09:00:01,514 - INFO - ============================================================
+2026-03-23 09:00:01,516 - WARNING - python-dotenv could not parse statement starting at line 24
+2026-03-23 09:00:01,516 - INFO - 
+Checking: OtterBox Terms of Use
+2026-03-23 09:00:01,516 - INFO - URL: https://www.otterbox.com/en-us/terms-of-use.html
+2026-03-23 09:00:02,804 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/otterbox_terms_of_use.json (2026-03-23)
+2026-03-23 09:00:02,804 - INFO - No changes detected for: OtterBox Terms of Use
+2026-03-23 09:00:02,804 - INFO - 
+Checking: 47Brand Rewards Terms and Conditions
+2026-03-23 09:00:02,804 - INFO - URL: https://www.47brand.com/pages/47-brand-rewards-terms-and-conditions
+2026-03-23 09:00:03,920 - INFO - CHANGES DETECTED for: 47Brand Rewards Terms and Conditions
+2026-03-23 09:00:03,921 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/47brand_rewards_terms_and_conditions.txt
+2026-03-23 09:00:03,923 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_rewards_terms_and_conditions.json (2026-03-23)
+2026-03-23 09:00:13,307 - INFO - Email sent: [Page Monitor] Changes detected - 47Brand Rewards Terms and Conditions
+2026-03-23 09:00:13,309 - INFO - 
+Checking: 47Brand Terms and Conditions
+2026-03-23 09:00:13,309 - INFO - URL: https://www.47brand.com/pages/terms-conditions-47brand-com
+2026-03-23 09:00:14,227 - INFO - CHANGES DETECTED for: 47Brand Terms and Conditions
+2026-03-23 09:00:14,228 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/47brand_terms_and_conditions.txt
+2026-03-23 09:00:14,230 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_terms_and_conditions.json (2026-03-23)
+2026-03-23 09:00:24,566 - INFO - Email sent: [Page Monitor] Changes detected - 47Brand Terms and Conditions
+2026-03-23 09:00:24,567 - INFO - 
+Run complete. Changes found: 2
+2026-03-23 09:00:24,567 - INFO - ============================================================
+2026-03-24 09:08:30,906 - INFO - ============================================================
+2026-03-24 09:08:30,907 - INFO - Web Page Change Monitor - Starting run
+2026-03-24 09:08:30,907 - INFO - Timestamp: 2026-03-24T09:08:30.907572
+2026-03-24 09:08:30,907 - INFO - ============================================================
+2026-03-24 09:08:30,909 - WARNING - python-dotenv could not parse statement starting at line 24
+2026-03-24 09:08:30,909 - INFO - 
+Checking: OtterBox Terms of Use
+2026-03-24 09:08:30,909 - INFO - URL: https://www.otterbox.com/en-us/terms-of-use.html
+2026-03-24 09:08:31,561 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/otterbox_terms_of_use.json (2026-03-24)
+2026-03-24 09:08:31,562 - INFO - No changes detected for: OtterBox Terms of Use
+2026-03-24 09:08:31,562 - INFO - 
+Checking: 47Brand Rewards Terms and Conditions
+2026-03-24 09:08:31,562 - INFO - URL: https://www.47brand.com/pages/47-brand-rewards-terms-and-conditions
+2026-03-24 09:08:32,807 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_rewards_terms_and_conditions.json (2026-03-24)
+2026-03-24 09:08:32,807 - INFO - No changes detected for: 47Brand Rewards Terms and Conditions
+2026-03-24 09:08:32,807 - INFO - 
+Checking: 47Brand Terms and Conditions
+2026-03-24 09:08:32,807 - INFO - URL: https://www.47brand.com/pages/terms-conditions-47brand-com
+2026-03-24 09:08:33,547 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_terms_and_conditions.json (2026-03-24)
+2026-03-24 09:08:33,547 - INFO - No changes detected for: 47Brand Terms and Conditions
+2026-03-24 09:08:33,547 - INFO - 
+Run complete. Changes found: 0
+2026-03-24 09:08:33,547 - INFO - ============================================================
+/bin/sh: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/venv/bin/python3: No such file or directory
+/bin/sh: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/venv/bin/python3: No such file or directory
+/bin/sh: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/venv/bin/python3: No such file or directory
+/bin/sh: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/venv/bin/python3: No such file or directory
+/bin/sh: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/venv/bin/python3: No such file or directory
+/bin/sh: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/venv/bin/python3: No such file or directory
+/bin/sh: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/venv/bin/python3: No such file or directory
+/bin/sh: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/venv/bin/python3: No such file or directory
+/bin/sh: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/venv/bin/python3: No such file or directory
+/bin/sh: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/venv/bin/python3: No such file or directory
+2026-04-14 09:00:01,346 - INFO - ============================================================
+2026-04-14 09:00:01,347 - INFO - Web Page Change Monitor - Starting run
+2026-04-14 09:00:01,347 - INFO - Timestamp: 2026-04-14T09:00:01.347223
+2026-04-14 09:00:01,347 - INFO - ============================================================
+2026-04-14 09:00:01,349 - INFO - 
+Checking: OtterBox Terms of Use
+2026-04-14 09:00:01,349 - INFO - URL: https://www.otterbox.com/en-us/terms-of-use.html
+2026-04-14 09:00:05,604 - INFO - CHANGES DETECTED for: OtterBox Terms of Use
+2026-04-14 09:00:05,605 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/otterbox_terms_of_use.txt
+2026-04-14 09:00:05,609 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/otterbox_terms_of_use.json (2026-04-14)
+2026-04-14 09:00:16,242 - INFO - Email sent: [Page Monitor] Changes detected - OtterBox Terms of Use
+2026-04-14 09:00:16,244 - INFO - 
+Checking: 47Brand Rewards Terms and Conditions
+2026-04-14 09:00:16,244 - INFO - URL: https://www.47brand.com/pages/47-brand-rewards-terms-and-conditions
+2026-04-14 09:00:18,537 - INFO - CHANGES DETECTED for: 47Brand Rewards Terms and Conditions
+2026-04-14 09:00:18,539 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/47brand_rewards_terms_and_conditions.txt
+2026-04-14 09:00:18,543 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_rewards_terms_and_conditions.json (2026-04-14)
+2026-04-14 09:00:29,512 - INFO - Email sent: [Page Monitor] Changes detected - 47Brand Rewards Terms and Conditions
+2026-04-14 09:00:29,513 - INFO - 
+Checking: 47Brand Terms and Conditions
+2026-04-14 09:00:29,513 - INFO - URL: https://www.47brand.com/pages/terms-conditions-47brand-com
+2026-04-14 09:00:31,452 - INFO - CHANGES DETECTED for: 47Brand Terms and Conditions
+2026-04-14 09:00:31,453 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/47brand_terms_and_conditions.txt
+2026-04-14 09:00:31,458 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_terms_and_conditions.json (2026-04-14)
+2026-04-14 09:00:41,718 - INFO - Email sent: [Page Monitor] Changes detected - 47Brand Terms and Conditions
+2026-04-14 09:00:41,760 - INFO - 
+Run complete. Changes found: 3
+2026-04-14 09:00:41,760 - INFO - ============================================================
+2026-04-15 09:00:02,136 - INFO - ============================================================
+2026-04-15 09:00:02,136 - INFO - Web Page Change Monitor - Starting run
+2026-04-15 09:00:02,136 - INFO - Timestamp: 2026-04-15T09:00:02.136752
+2026-04-15 09:00:02,136 - INFO - ============================================================
+2026-04-15 09:00:02,139 - INFO - 
+Checking: OtterBox Terms of Use
+2026-04-15 09:00:02,139 - INFO - URL: https://www.otterbox.com/en-us/terms-of-use.html
+2026-04-15 09:00:03,172 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/otterbox_terms_of_use.json (2026-04-15)
+2026-04-15 09:00:03,172 - INFO - No changes detected for: OtterBox Terms of Use
+2026-04-15 09:00:03,173 - INFO - 
+Checking: 47Brand Rewards Terms and Conditions
+2026-04-15 09:00:03,173 - INFO - URL: https://www.47brand.com/pages/47-brand-rewards-terms-and-conditions
+2026-04-15 09:00:04,926 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_rewards_terms_and_conditions.json (2026-04-15)
+2026-04-15 09:00:04,926 - INFO - No changes detected for: 47Brand Rewards Terms and Conditions
+2026-04-15 09:00:04,926 - INFO - 
+Checking: 47Brand Terms and Conditions
+2026-04-15 09:00:04,926 - INFO - URL: https://www.47brand.com/pages/terms-conditions-47brand-com
+2026-04-15 09:00:06,160 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_terms_and_conditions.json (2026-04-15)
+2026-04-15 09:00:06,160 - INFO - No changes detected for: 47Brand Terms and Conditions
+2026-04-15 09:00:06,160 - INFO - 
+Run complete. Changes found: 0
+2026-04-15 09:00:06,160 - INFO - ============================================================
+2026-04-16 09:00:01,193 - INFO - ============================================================
+2026-04-16 09:00:01,195 - INFO - Web Page Change Monitor - Starting run
+2026-04-16 09:00:01,195 - INFO - Timestamp: 2026-04-16T09:00:01.195774
+2026-04-16 09:00:01,195 - INFO - ============================================================
+2026-04-16 09:00:01,198 - INFO - 
+Checking: OtterBox Terms of Use
+2026-04-16 09:00:01,198 - INFO - URL: https://www.otterbox.com/en-us/terms-of-use.html
+2026-04-16 09:00:02,350 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/otterbox_terms_of_use.json (2026-04-16)
+2026-04-16 09:00:02,351 - INFO - No changes detected for: OtterBox Terms of Use
+2026-04-16 09:00:02,351 - INFO - 
+Checking: 47Brand Rewards Terms and Conditions
+2026-04-16 09:00:02,351 - INFO - URL: https://www.47brand.com/pages/47-brand-rewards-terms-and-conditions
+2026-04-16 09:00:03,871 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_rewards_terms_and_conditions.json (2026-04-16)
+2026-04-16 09:00:03,871 - INFO - No changes detected for: 47Brand Rewards Terms and Conditions
+2026-04-16 09:00:03,871 - INFO - 
+Checking: 47Brand Terms and Conditions
+2026-04-16 09:00:03,871 - INFO - URL: https://www.47brand.com/pages/terms-conditions-47brand-com
+2026-04-16 09:00:04,868 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_terms_and_conditions.json (2026-04-16)
+2026-04-16 09:00:04,869 - INFO - No changes detected for: 47Brand Terms and Conditions
+2026-04-16 09:00:04,869 - INFO - 
+Run complete. Changes found: 0
+2026-04-16 09:00:04,869 - INFO - ============================================================
+2026-04-17 09:00:00,937 - INFO - ============================================================
+2026-04-17 09:00:00,939 - INFO - Web Page Change Monitor - Starting run
+2026-04-17 09:00:00,939 - INFO - Timestamp: 2026-04-17T09:00:00.939308
+2026-04-17 09:00:00,939 - INFO - ============================================================
+2026-04-17 09:00:00,941 - INFO - 
+Checking: OtterBox Terms of Use
+2026-04-17 09:00:00,941 - INFO - URL: https://www.otterbox.com/en-us/terms-of-use.html
+2026-04-17 09:00:02,040 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/otterbox_terms_of_use.json (2026-04-17)
+2026-04-17 09:00:02,040 - INFO - No changes detected for: OtterBox Terms of Use
+2026-04-17 09:00:02,040 - INFO - 
+Checking: 47Brand Rewards Terms and Conditions
+2026-04-17 09:00:02,040 - INFO - URL: https://www.47brand.com/pages/47-brand-rewards-terms-and-conditions
+2026-04-17 09:00:02,989 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_rewards_terms_and_conditions.json (2026-04-17)
+2026-04-17 09:00:02,989 - INFO - No changes detected for: 47Brand Rewards Terms and Conditions
+2026-04-17 09:00:02,989 - INFO - 
+Checking: 47Brand Terms and Conditions
+2026-04-17 09:00:02,989 - INFO - URL: https://www.47brand.com/pages/terms-conditions-47brand-com
+2026-04-17 09:00:03,679 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_terms_and_conditions.json (2026-04-17)
+2026-04-17 09:00:03,680 - INFO - No changes detected for: 47Brand Terms and Conditions
+2026-04-17 09:00:03,680 - INFO - 
+Checking: DoorDash Consumer Terms and Conditions
+2026-04-17 09:00:03,680 - INFO - URL: https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US
+2026-04-17 09:00:04,554 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/doordash_consumer_terms_and_conditions.json (2026-04-17)
+2026-04-17 09:00:04,554 - INFO - No changes detected for: DoorDash Consumer Terms and Conditions
+2026-04-17 09:00:04,554 - INFO - 
+Checking: DoorDash Consumer Terms and Conditions US English Section 12-14
+2026-04-17 09:00:04,554 - INFO - URL: https://help.doordash.com/dashers/s/news/consumer-terms-and-conditions-us-english-section-12-14-MCB5IXJMLM2RDULADEXG3OFNGWMA
+2026-04-17 09:00:05,280 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/doordash_consumer_terms_and_conditions_us_english_section_12_14.json (2026-04-17)
+2026-04-17 09:00:05,280 - INFO - No changes detected for: DoorDash Consumer Terms and Conditions US English Section 12-14
+2026-04-17 09:00:05,280 - INFO - 
+Checking: DoorDash Consumer Terms and Conditions AU English
+2026-04-17 09:00:05,280 - INFO - URL: https://help.doordash.com/dashers/s/news/consumer-terms-and-conditions-au-english-MCHRSFWWK4TFBJHCOTRE2QVVCN2I?language=de
+2026-04-17 09:00:06,825 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/doordash_consumer_terms_and_conditions_au_english.json (2026-04-17)
+2026-04-17 09:00:06,826 - INFO - No changes detected for: DoorDash Consumer Terms and Conditions AU English
+2026-04-17 09:00:06,826 - INFO - 
+Checking: DoorDash Promotional Terms and Conditions English
+2026-04-17 09:00:06,826 - INFO - URL: https://help.doordash.com/consumers/s/promotional-terms-and-conditions-english?language=en_US&ctry=IN&divcode=MH
+2026-04-17 09:00:07,711 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/doordash_promotional_terms_and_conditions_english.json (2026-04-17)
+2026-04-17 09:00:07,711 - INFO - No changes detected for: DoorDash Promotional Terms and Conditions English
+2026-04-17 09:00:07,711 - INFO - 
+Checking: Royal Caribbean Promotions Terms and Conditions
+2026-04-17 09:00:07,711 - INFO - URL: https://www.royalcaribbean.com/terms-and-conditions/promotions
+2026-04-17 09:00:08,540 - INFO - CHANGES DETECTED for: Royal Caribbean Promotions Terms and Conditions
+2026-04-17 09:00:08,541 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/royal_caribbean_promotions_terms_and_conditions.txt
+2026-04-17 09:00:08,543 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/royal_caribbean_promotions_terms_and_conditions.json (2026-04-17)
+2026-04-17 09:00:08,543 - INFO - 
+Checking: Royal Caribbean UAE Terms and Conditions
+2026-04-17 09:00:08,543 - INFO - URL: https://www.royalcaribbean.ae/terms-and-conditions/
+2026-04-17 09:00:09,435 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/royal_caribbean_uae_terms_and_conditions.json (2026-04-17)
+2026-04-17 09:00:09,435 - INFO - No changes detected for: Royal Caribbean UAE Terms and Conditions
+2026-04-17 09:00:09,436 - INFO - 
+Checking: Royal Caribbean UK Terms and Conditions
+2026-04-17 09:00:09,436 - INFO - URL: https://www.royalcaribbean.com/gbr/en/terms-and-conditions.co.uk?country=GBR
+2026-04-17 09:00:09,992 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/royal_caribbean_uk_terms_and_conditions.json (2026-04-17)
+2026-04-17 09:00:09,992 - INFO - No changes detected for: Royal Caribbean UK Terms and Conditions
+2026-04-17 09:00:09,993 - INFO - 
+Checking: Paperless Post Party Shop Terms and Conditions
+2026-04-17 09:00:09,993 - INFO - URL: https://partyshop.paperlesspost.com/pages/terms-conditions
+2026-04-17 09:00:10,416 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/paperless_post_party_shop_terms_and_conditions.json (2026-04-17)
+2026-04-17 09:00:10,416 - INFO - No changes detected for: Paperless Post Party Shop Terms and Conditions
+2026-04-17 09:00:10,416 - INFO - 
+Checking: Carhartt Terms and Conditions
+2026-04-17 09:00:10,416 - INFO - URL: https://www.carhartt.com/terms-conditions
+2026-04-17 09:00:10,690 - ERROR - Failed to fetch Carhartt Terms and Conditions: 403 Client Error: Forbidden for url: https://www.carhartt.com/terms-conditions
+2026-04-17 09:00:10,692 - INFO - 
+Checking: Carhartt WIP US Terms
+2026-04-17 09:00:10,692 - INFO - URL: https://us.carhartt-wip.com/en-us/terms
+2026-04-17 09:00:11,307 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/carhartt_wip_us_terms.json (2026-04-17)
+2026-04-17 09:00:11,307 - INFO - No changes detected for: Carhartt WIP US Terms
+2026-04-17 09:00:11,307 - INFO - 
+Checking: Carhartt WIP DE Terms
+2026-04-17 09:00:11,307 - INFO - URL: https://www.carhartt-wip.com/en-de/i/terms?srsltid=AfmBOopT5OKdNNxy7LmKCduP3dzn6PBKj0oDMtqhb7bfGIt_LDebrOrl
+2026-04-17 09:00:12,781 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/carhartt_wip_de_terms.json (2026-04-17)
+2026-04-17 09:00:12,781 - INFO - No changes detected for: Carhartt WIP DE Terms
+2026-04-17 09:00:12,781 - INFO - 
+Checking: Carhartt Company Gear Terms and Conditions
+2026-04-17 09:00:12,782 - INFO - URL: https://companygear.carhartt.com/terms-and-conditions/
+2026-04-17 09:00:13,382 - ERROR - Failed to fetch Carhartt Company Gear Terms and Conditions: 403 Client Error: Forbidden for url: https://companygear.carhartt.com/terms-and-conditions/
+2026-04-17 09:00:13,384 - INFO - 
+Checking: Yahoo Terms of Service
+2026-04-17 09:00:13,384 - INFO - URL: https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html
+2026-04-17 09:00:15,581 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/yahoo_terms_of_service.json (2026-04-17)
+2026-04-17 09:00:15,581 - INFO - No changes detected for: Yahoo Terms of Service
+2026-04-17 09:00:15,581 - INFO - 
+Checking: Yahoo Advertising Terms
+2026-04-17 09:00:15,581 - INFO - URL: https://legal.yahoo.com/us/en/yahoo/terms/advertising-322/index.html
+2026-04-17 09:00:17,670 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/yahoo_advertising_terms.json (2026-04-17)
+2026-04-17 09:00:17,670 - INFO - No changes detected for: Yahoo Advertising Terms
+2026-04-17 09:00:17,670 - INFO - 
+Checking: eBay Coded Coupons Buyer Terms
+2026-04-17 09:00:17,670 - INFO - URL: https://pages.ebay.com/specialoffers/codedcoupons_buyerterms.html
+2026-04-17 09:00:19,144 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ebay_coded_coupons_buyer_terms.json (2026-04-17)
+2026-04-17 09:00:19,144 - INFO - No changes detected for: eBay Coded Coupons Buyer Terms
+2026-04-17 09:00:19,145 - INFO - 
+Checking: eBay Social Sharing Terms
+2026-04-17 09:00:19,145 - INFO - URL: https://pages.ebay.com/social/sharing/terms.html
+2026-04-17 09:00:19,545 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ebay_social_sharing_terms.json (2026-04-17)
+2026-04-17 09:00:19,545 - INFO - No changes detected for: eBay Social Sharing Terms
+2026-04-17 09:00:19,545 - INFO - 
+Checking: eBay International Shipping Program Buyer Terms
+2026-04-17 09:00:19,545 - INFO - URL: https://pages.ebay.com/internationalshippingprogram/buyer/terms/
+2026-04-17 09:00:20,693 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ebay_international_shipping_program_buyer_terms.json (2026-04-17)
+2026-04-17 09:00:20,693 - INFO - No changes detected for: eBay International Shipping Program Buyer Terms
+2026-04-17 09:00:20,693 - INFO - 
+Checking: Discord Terms
+2026-04-17 09:00:20,693 - INFO - URL: https://discord.com/terms
+2026-04-17 09:00:21,278 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/discord_terms.json (2026-04-17)
+2026-04-17 09:00:21,278 - INFO - No changes detected for: Discord Terms
+2026-04-17 09:00:21,278 - INFO - 
+Checking: Activision Terms of Use
+2026-04-17 09:00:21,278 - INFO - URL: https://www.activision.com/legal/terms-of-use
+2026-04-17 09:00:21,757 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/activision_terms_of_use.json (2026-04-17)
+2026-04-17 09:00:21,757 - INFO - No changes detected for: Activision Terms of Use
+2026-04-17 09:00:21,757 - INFO - 
+Checking: Formula 1 Official F1 Race Guide App Terms and Conditions
+2026-04-17 09:00:21,757 - INFO - URL: https://www.formula1.com/en/information/official-f1-race-guide-app-terms-and-conditions.6vXQ9RT3vCLLDDeyRSUPe7
+2026-04-17 09:00:22,825 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/formula_1_official_f1_race_guide_app_terms_and_conditions.json (2026-04-17)
+2026-04-17 09:00:22,825 - INFO - No changes detected for: Formula 1 Official F1 Race Guide App Terms and Conditions
+2026-04-17 09:00:22,825 - INFO - 
+Checking: Nintendo US Terms of Use
+2026-04-17 09:00:22,825 - INFO - URL: https://www.nintendo.com/us/terms-of-use/
+2026-04-17 09:00:23,565 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/nintendo_us_terms_of_use.json (2026-04-17)
+2026-04-17 09:00:23,567 - INFO - No changes detected for: Nintendo US Terms of Use
+2026-04-17 09:00:23,567 - INFO - 
+Checking: Nintendo US Purchase Terms
+2026-04-17 09:00:23,567 - INFO - URL: https://www.nintendo.com/us/purchase-terms/
+2026-04-17 09:00:24,230 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/nintendo_us_purchase_terms.json (2026-04-17)
+2026-04-17 09:00:24,230 - INFO - No changes detected for: Nintendo US Purchase Terms
+2026-04-17 09:00:24,230 - INFO - 
+Checking: Nintendo UK Terms of Service
+2026-04-17 09:00:24,230 - INFO - URL: https://www.nintendo.com/en-gb/Legal-information/Terms-of-service-570453.html
+2026-04-17 09:00:24,566 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/nintendo_uk_terms_of_service.json (2026-04-17)
+2026-04-17 09:00:24,567 - INFO - No changes detected for: Nintendo UK Terms of Service
+2026-04-17 09:00:24,567 - INFO - 
+Checking: Nintendo Canada Gift Card Terms
+2026-04-17 09:00:24,567 - INFO - URL: https://www.nintendo.com/en-ca/giftcards/terms/
+2026-04-17 09:00:25,284 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/nintendo_canada_gift_card_terms.json (2026-04-17)
+2026-04-17 09:00:25,285 - INFO - No changes detected for: Nintendo Canada Gift Card Terms
+2026-04-17 09:00:25,285 - INFO - 
+Checking: Redfin Terms of Use
+2026-04-17 09:00:25,285 - INFO - URL: https://www.redfin.com/about/terms-of-use
+2026-04-17 09:00:27,059 - INFO - CHANGES DETECTED for: Redfin Terms of Use
+2026-04-17 09:00:27,061 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/redfin_terms_of_use.txt
+2026-04-17 09:00:27,071 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/redfin_terms_of_use.json (2026-04-17)
+2026-04-17 09:00:27,074 - INFO - 
+Checking: Redfin Terms and Conditions
+2026-04-17 09:00:27,074 - INFO - URL: https://support.redfin.com/hc/en-us/articles/360001454551-Terms-and-Conditions
+2026-04-17 09:00:28,026 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/redfin_terms_and_conditions.json (2026-04-17)
+2026-04-17 09:00:28,027 - INFO - No changes detected for: Redfin Terms and Conditions
+2026-04-17 09:00:28,027 - INFO - 
+Checking: Hoopla Terms
+2026-04-17 09:00:28,027 - INFO - URL: https://www.hoopladigital.com/terms
+2026-04-17 09:00:28,531 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/hoopla_terms.json (2026-04-17)
+2026-04-17 09:00:28,532 - INFO - No changes detected for: Hoopla Terms
+2026-04-17 09:00:28,532 - INFO - 
+Checking: Hoopla Audiobook Terms and Conditions Lauren Asher
+2026-04-17 09:00:28,532 - INFO - URL: https://www.hoopladigital.com/audiobook/terms-and-conditions-lauren-asher/15210357
+2026-04-17 09:00:28,887 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/hoopla_audiobook_terms_and_conditions_lauren_asher.json (2026-04-17)
+2026-04-17 09:00:28,887 - INFO - No changes detected for: Hoopla Audiobook Terms and Conditions Lauren Asher
+2026-04-17 09:00:28,887 - INFO - 
+Checking: Hoopla UK Terms of Use
+2026-04-17 09:00:28,887 - INFO - URL: https://hoopladigital.co.uk/terms-of-use/
+2026-04-17 09:00:29,933 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/hoopla_uk_terms_of_use.json (2026-04-17)
+2026-04-17 09:00:29,934 - INFO - No changes detected for: Hoopla UK Terms of Use
+2026-04-17 09:00:29,934 - INFO - 
+Checking: 305 Fitness Terms of Service
+2026-04-17 09:00:29,934 - INFO - URL: https://www.305fitness.com/terms-of-service
+2026-04-17 09:00:30,514 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/305_fitness_terms_of_service.json (2026-04-17)
+2026-04-17 09:00:30,514 - INFO - No changes detected for: 305 Fitness Terms of Service
+2026-04-17 09:00:30,514 - INFO - 
+Checking: Bandai Namco Terms
+2026-04-17 09:00:30,514 - INFO - URL: https://www.bandainamcoent.com/legal/terms
+2026-04-17 09:00:35,599 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/bandai_namco_terms.json (2026-04-17)
+2026-04-17 09:00:35,599 - INFO - No changes detected for: Bandai Namco Terms
+2026-04-17 09:00:35,599 - INFO - 
+Checking: Baseball America Terms of Use
+2026-04-17 09:00:35,599 - INFO - URL: https://www.baseballamerica.com/terms-of-use/
+2026-04-17 09:00:36,090 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/baseball_america_terms_of_use.json (2026-04-17)
+2026-04-17 09:00:36,091 - INFO - No changes detected for: Baseball America Terms of Use
+2026-04-17 09:00:36,091 - INFO - 
+Checking: Birds and Blooms Hidden Object Official Rules
+2026-04-17 09:00:36,091 - INFO - URL: https://www.birdsandblooms.com/birds-blooms-hidden-object-official-rules/
+2026-04-17 09:00:36,601 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/birds_and_blooms_hidden_object_official_rules.json (2026-04-17)
+2026-04-17 09:00:36,601 - INFO - No changes detected for: Birds and Blooms Hidden Object Official Rules
+2026-04-17 09:00:36,601 - INFO - 
+Checking: CorePower Yoga Terms of Use
+2026-04-17 09:00:36,601 - INFO - URL: https://www.corepoweryoga.com/content/terms-use
+2026-04-17 09:00:37,145 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/corepower_yoga_terms_of_use.json (2026-04-17)
+2026-04-17 09:00:37,145 - INFO - No changes detected for: CorePower Yoga Terms of Use
+2026-04-17 09:00:37,146 - INFO - 
+Checking: CorePower Yoga Student Terms and Conditions
+2026-04-17 09:00:37,146 - INFO - URL: https://www.corepoweryoga.com/content/student-terms-conditions
+2026-04-17 09:00:37,588 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/corepower_yoga_student_terms_and_conditions.json (2026-04-17)
+2026-04-17 09:00:37,588 - INFO - No changes detected for: CorePower Yoga Student Terms and Conditions
+2026-04-17 09:00:37,589 - INFO - 
+Checking: Criterion Terms
+2026-04-17 09:00:37,589 - INFO - URL: https://www.criterion.com/terms?srsltid=AfmBOoqHIf_tHIBfLgXJCw-OBaUsLcBm5suDfiCDBavrhMIeTHWQU6OF
+2026-04-17 09:00:38,987 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/criterion_terms.txt
+2026-04-17 09:00:38,988 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/criterion_terms.json (2026-04-17)
+2026-04-17 09:00:38,988 - INFO - First snapshot captured for: Criterion Terms
+2026-04-17 09:00:38,988 - INFO - 
+Checking: Criterion Channel Terms of Service
+2026-04-17 09:00:38,988 - INFO - URL: https://www.criterionchannel.com/tos
+2026-04-17 09:00:39,688 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/criterion_channel_terms_of_service.json (2026-04-17)
+2026-04-17 09:00:39,688 - INFO - No changes detected for: Criterion Channel Terms of Service
+2026-04-17 09:00:39,688 - INFO - 
+Checking: Crypto.com Exchange Privacy
+2026-04-17 09:00:39,689 - INFO - URL: https://crypto.com/exchange/document/privacy
+2026-04-17 09:00:39,706 - ERROR - Failed to fetch Crypto.com Exchange Privacy: HTTPSConnectionPool(host='crypto.com', port=443): Max retries exceeded with url: /exchange/document/privacy (Caused by NewConnectionError("HTTPSConnection(host='crypto.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused"))
+2026-04-17 09:00:39,707 - INFO - 
+Checking: Crypto.com Exchange Terms and Conditions
+2026-04-17 09:00:39,707 - INFO - URL: https://crypto.com/exchange/document/tnc
+2026-04-17 09:00:39,711 - ERROR - Failed to fetch Crypto.com Exchange Terms and Conditions: HTTPSConnectionPool(host='crypto.com', port=443): Max retries exceeded with url: /exchange/document/tnc (Caused by NewConnectionError("HTTPSConnection(host='crypto.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused"))
+2026-04-17 09:00:39,711 - INFO - 
+Checking: DKOldies Terms and Conditions
+2026-04-17 09:00:39,711 - INFO - URL: https://www.dkoldies.com/terms-and-conditions/
+2026-04-17 09:00:41,651 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/dkoldies_terms_and_conditions.json (2026-04-17)
+2026-04-17 09:00:41,651 - INFO - No changes detected for: DKOldies Terms and Conditions
+2026-04-17 09:00:41,651 - INFO - 
+Checking: EA User Agreement
+2026-04-17 09:00:41,651 - INFO - URL: https://www.ea.com/legal/user-agreement
+2026-04-17 09:00:42,305 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ea_user_agreement.json (2026-04-17)
+2026-04-17 09:00:42,306 - INFO - No changes detected for: EA User Agreement
+2026-04-17 09:00:42,306 - INFO - 
+Checking: EA Terms of Sale
+2026-04-17 09:00:42,306 - INFO - URL: https://www.ea.com/legal/terms-of-sale
+2026-04-17 09:00:42,803 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ea_terms_of_sale.json (2026-04-17)
+2026-04-17 09:00:42,803 - INFO - No changes detected for: EA Terms of Sale
+2026-04-17 09:00:42,804 - INFO - 
+Checking: EA Play Terms
+2026-04-17 09:00:42,804 - INFO - URL: https://www.ea.com/legal/ea-play-terms
+2026-04-17 09:00:43,308 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ea_play_terms.json (2026-04-17)
+2026-04-17 09:00:43,308 - INFO - No changes detected for: EA Play Terms
+2026-04-17 09:00:43,308 - INFO - 
+Checking: Game Over Videogames Terms of Use
+2026-04-17 09:00:43,309 - INFO - URL: https://gameovergames.com/terms-of-use/
+2026-04-17 09:00:44,500 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/game_over_videogames_terms_of_use.json (2026-04-17)
+2026-04-17 09:00:44,500 - INFO - No changes detected for: Game Over Videogames Terms of Use
+2026-04-17 09:00:44,500 - INFO - 
+Checking: GameFly Terms of Use
+2026-04-17 09:00:44,500 - INFO - URL: https://www.gamefly.com/terms-of-use?srsltid=AfmBOopNrKpQyLUcGwbRwLj6xJ6vsCLufM2Qm_TNO5nMNWmR7r5RbvQY
+2026-04-17 09:00:45,845 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/gamefly_terms_of_use.json (2026-04-17)
+2026-04-17 09:00:45,845 - INFO - No changes detected for: GameFly Terms of Use
+2026-04-17 09:00:45,845 - INFO - 
+Checking: Google Assistant Community Terms
+2026-04-17 09:00:45,846 - INFO - URL: https://developers.google.com/assistant/community/terms
+2026-04-17 09:00:47,106 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/google_assistant_community_terms.json (2026-04-17)
+2026-04-17 09:00:47,107 - INFO - No changes detected for: Google Assistant Community Terms
+2026-04-17 09:00:47,107 - INFO - 
+Checking: Google Assistant Product Terms
+2026-04-17 09:00:47,107 - INFO - URL: https://transparency.google/intl/en/our-policies/product-terms/google-assistant/
+2026-04-17 09:00:47,327 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/google_assistant_product_terms.json (2026-04-17)
+2026-04-17 09:00:47,327 - INFO - No changes detected for: Google Assistant Product Terms
+2026-04-17 09:00:47,327 - INFO - 
+Checking: iam8bit Terms Conditions Policy
+2026-04-17 09:00:47,327 - INFO - URL: https://www.iam8bit.com/pages/terms-conditions-policy
+2026-04-17 09:00:48,033 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/iam8bit_terms_conditions_policy.json (2026-04-17)
+2026-04-17 09:00:48,033 - INFO - No changes detected for: iam8bit Terms Conditions Policy
+2026-04-17 09:00:48,033 - INFO - 
+Checking: iam8bit Policies
+2026-04-17 09:00:48,033 - INFO - URL: https://www.iam8bit.com/pages/policies
+2026-04-17 09:00:48,563 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/iam8bit_policies.json (2026-04-17)
+2026-04-17 09:00:48,564 - INFO - No changes detected for: iam8bit Policies
+2026-04-17 09:00:48,564 - INFO - 
+Checking: iam8bit Privacy Policy
+2026-04-17 09:00:48,564 - INFO - URL: https://www.iam8bit.com/pages/privacy-policy
+2026-04-17 09:00:49,058 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/iam8bit_privacy_policy.json (2026-04-17)
+2026-04-17 09:00:49,058 - INFO - No changes detected for: iam8bit Privacy Policy
+2026-04-17 09:00:49,059 - INFO - 
+Checking: Kick Terms of Service
+2026-04-17 09:00:49,059 - INFO - URL: https://kick.com/terms-of-service
+2026-04-17 09:00:49,661 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/kick_terms_of_service.json (2026-04-17)
+2026-04-17 09:00:49,661 - INFO - No changes detected for: Kick Terms of Service
+2026-04-17 09:00:49,661 - INFO - 
+Checking: Kick Partner Terms and Conditions
+2026-04-17 09:00:49,662 - INFO - URL: https://kick.com/partner-terms-and-conditions
+2026-04-17 09:00:50,358 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/kick_partner_terms_and_conditions.json (2026-04-17)
+2026-04-17 09:00:50,358 - INFO - No changes detected for: Kick Partner Terms and Conditions
+2026-04-17 09:00:50,358 - INFO - 
+Checking: Xbox Subscription Terms
+2026-04-17 09:00:50,358 - INFO - URL: https://www.xbox.com/en-IN/legal/subscription-terms
+2026-04-17 09:00:50,927 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/xbox_subscription_terms.json (2026-04-17)
+2026-04-17 09:00:50,927 - INFO - No changes detected for: Xbox Subscription Terms
+2026-04-17 09:00:50,927 - INFO - 
+Checking: Xbox Web Purchase Terms
+2026-04-17 09:00:50,927 - INFO - URL: https://www.xbox.com/en-IN/legal/web-purchase
+2026-04-17 09:00:51,490 - ERROR - Failed to fetch Xbox Web Purchase Terms: 404 Client Error: Not Found for url: https://www.xbox.com/en-IN/legal/web-purchase
+2026-04-17 09:00:51,492 - INFO - 
+Checking: PGA TOUR Tickets and Merchandise Terms and Conditions
+2026-04-17 09:00:51,492 - INFO - URL: https://www.pgatour.com/company/terms-conditions-tickets-and-merchandise
+2026-04-17 09:00:53,700 - INFO - CHANGES DETECTED for: PGA TOUR Tickets and Merchandise Terms and Conditions
+2026-04-17 09:00:53,701 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/pga_tour_tickets_and_merchandise_terms_and_conditions.txt
+2026-04-17 09:00:53,702 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/pga_tour_tickets_and_merchandise_terms_and_conditions.json (2026-04-17)
+2026-04-17 09:00:53,703 - INFO - 
+Checking: PGA TOUR Terms of Use
+2026-04-17 09:00:53,703 - INFO - URL: https://www.pgatour.com/company/terms-of-use
+2026-04-17 09:00:55,353 - INFO - CHANGES DETECTED for: PGA TOUR Terms of Use
+2026-04-17 09:00:55,355 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/pga_tour_terms_of_use.txt
+2026-04-17 09:00:55,358 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/pga_tour_terms_of_use.json (2026-04-17)
+2026-04-17 09:00:55,359 - INFO - 
+Checking: Pvolve Terms of Service
+2026-04-17 09:00:55,359 - INFO - URL: https://www.pvolve.com/policies/terms-of-service?srsltid=AfmBOoqMxgGLW17FSojeSIBgMvuQApDx-G0oX10TWbOGLJ-XtagqbxH2
+2026-04-17 09:00:56,212 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/pvolve_terms_of_service.json (2026-04-17)
+2026-04-17 09:00:56,213 - INFO - No changes detected for: Pvolve Terms of Service
+2026-04-17 09:00:56,213 - INFO - 
+Checking: Pvolve Terms of Service Page 2
+2026-04-17 09:00:56,213 - INFO - URL: https://www.pvolve.com/policies/terms-of-service?page=2&srsltid=AfmBOora5D6RkYgBsrQzHBqTr0DdaxYGlPgiSm77Nipr3y4v8rvpEHuK
+2026-04-17 09:00:56,880 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/pvolve_terms_of_service_page_2.json (2026-04-17)
+2026-04-17 09:00:56,880 - INFO - No changes detected for: Pvolve Terms of Service Page 2
+2026-04-17 09:00:56,880 - INFO - 
+Checking: Pvolve Ultimate Giveaway 2025 Terms and Conditions
+2026-04-17 09:00:56,880 - INFO - URL: https://www.pvolve.com/pages/terms-conditions-ultimate-giveaway-2025?srsltid=AfmBOorXYZAWGpkB85_Cmz6VuPZ7b5YnyImKsRyiHp7c5MGcRQrUnOsp
+2026-04-17 09:00:57,479 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/pvolve_ultimate_giveaway_2025_terms_and_conditions.json (2026-04-17)
+2026-04-17 09:00:57,479 - INFO - No changes detected for: Pvolve Ultimate Giveaway 2025 Terms and Conditions
+2026-04-17 09:00:57,479 - INFO - 
+Checking: Quince Privacy Policy
+2026-04-17 09:00:57,479 - INFO - URL: https://www.quince.com/privacy-policy?srsltid=AfmBOorDGXgSLYQALnnpy2FCZsaA5J8pzdUK74zfteFSaQZMpnpJgvd0
+2026-04-17 09:00:59,218 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/quince_privacy_policy.json (2026-04-17)
+2026-04-17 09:00:59,218 - INFO - No changes detected for: Quince Privacy Policy
+2026-04-17 09:00:59,218 - INFO - 
+Checking: Quince Terms
+2026-04-17 09:00:59,218 - INFO - URL: https://www.quince.com/terms?srsltid=AfmBOopmxy-iYsOpaSa17WxlmBwrvPClfouahF7_qgwm6ElqSLk6DcyH
+2026-04-17 09:01:00,796 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/quince_terms.json (2026-04-17)
+2026-04-17 09:01:00,796 - INFO - No changes detected for: Quince Terms
+2026-04-17 09:01:00,796 - INFO - 
+Checking: Reader's Digest Terms of Use
+2026-04-17 09:01:00,796 - INFO - URL: https://www.readersdigest.in/terms-of-use
+2026-04-17 09:01:02,711 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/reader_s_digest_terms_of_use.json (2026-04-17)
+2026-04-17 09:01:02,711 - INFO - No changes detected for: Reader's Digest Terms of Use
+2026-04-17 09:01:02,711 - INFO - 
+Checking: Reader's Digest Gift Rules
+2026-04-17 09:01:02,711 - INFO - URL: https://subscription.readersdigest.in/rdindia/giftedm/s100rules.html
+2026-04-17 09:01:03,758 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/reader_s_digest_gift_rules.json (2026-04-17)
+2026-04-17 09:01:03,759 - INFO - No changes detected for: Reader's Digest Gift Rules
+2026-04-17 09:01:03,759 - INFO - 
+Checking: SiriusXM Media Terms
+2026-04-17 09:01:03,759 - INFO - URL: https://www.siriusxmmedia.com/terms
+2026-04-17 09:01:06,221 - INFO - CHANGES DETECTED for: SiriusXM Media Terms
+2026-04-17 09:01:06,223 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/siriusxm_media_terms.txt
+2026-04-17 09:01:06,226 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/siriusxm_media_terms.json (2026-04-17)
+2026-04-17 09:01:06,226 - INFO - 
+Checking: SiriusXM Customer Agreement
+2026-04-17 09:01:06,226 - INFO - URL: https://www.siriusxm.com/customer-agreement
+2026-04-17 09:01:08,305 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/siriusxm_customer_agreement.json (2026-04-17)
+2026-04-17 09:01:08,305 - INFO - No changes detected for: SiriusXM Customer Agreement
+2026-04-17 09:01:08,305 - INFO - 
+Checking: Starz Terms of Use
+2026-04-17 09:01:08,305 - INFO - URL: https://www.starz.com/us/en/termsofuse
+2026-04-17 09:01:10,848 - INFO - CHANGES DETECTED for: Starz Terms of Use
+2026-04-17 09:01:10,849 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/starz_terms_of_use.txt
+2026-04-17 09:01:10,852 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/starz_terms_of_use.json (2026-04-17)
+2026-04-17 09:01:10,853 - INFO - 
+Checking: Starz SPI Terms Web BR EN
+2026-04-17 09:01:10,853 - INFO - URL: https://resources.starz.com/legal/spi-terms-web-br-en.html
+2026-04-17 09:01:11,636 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/starz_spi_terms_web_br_en.json (2026-04-17)
+2026-04-17 09:01:11,636 - INFO - No changes detected for: Starz SPI Terms Web BR EN
+2026-04-17 09:01:11,636 - INFO - 
+Checking: Starz SPI Terms Web FI EN
+2026-04-17 09:01:11,636 - INFO - URL: https://resources.starz.com/legal/spi-terms-web-fi-en.html
+2026-04-17 09:01:12,480 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/starz_spi_terms_web_fi_en.json (2026-04-17)
+2026-04-17 09:01:12,480 - INFO - No changes detected for: Starz SPI Terms Web FI EN
+2026-04-17 09:01:12,480 - INFO - 
+Checking: TaxAct Terms of Service
+2026-04-17 09:01:12,480 - INFO - URL: https://www.taxact.com/terms-of-service
+2026-04-17 09:01:14,273 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/taxact_terms_of_service.json (2026-04-17)
+2026-04-17 09:01:14,273 - INFO - No changes detected for: TaxAct Terms of Service
+2026-04-17 09:01:14,273 - INFO - 
+Checking: TaxAct Terms of Service Printable
+2026-04-17 09:01:14,273 - INFO - URL: https://www.taxact.com/terms-of-service/printable
+2026-04-17 09:01:15,628 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/taxact_terms_of_service_printable.json (2026-04-17)
+2026-04-17 09:01:15,628 - INFO - No changes detected for: TaxAct Terms of Service Printable
+2026-04-17 09:01:15,628 - INFO - 
+Checking: TaxAct Free File Terms of Service
+2026-04-17 09:01:15,628 - INFO - URL: https://www.taxact.com/ffa/free-file/terms-of-service
+2026-04-17 09:01:16,936 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/taxact_free_file_terms_of_service.json (2026-04-17)
+2026-04-17 09:01:16,937 - INFO - No changes detected for: TaxAct Free File Terms of Service
+2026-04-17 09:01:16,937 - INFO - 
+Checking: TaxAct VITA Terms of Service
+2026-04-17 09:01:16,937 - INFO - URL: https://www.taxact.com/ffa/vita/terms-of-service
+2026-04-17 09:01:17,667 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/taxact_vita_terms_of_service.json (2026-04-17)
+2026-04-17 09:01:17,668 - INFO - No changes detected for: TaxAct VITA Terms of Service
+2026-04-17 09:01:17,668 - INFO - 
+Checking: TaxAct Refer Terms
+2026-04-17 09:01:17,668 - INFO - URL: https://refer.taxact.com/zone/terms?campaign_id=6766300849289157074
+2026-04-17 09:01:18,661 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/taxact_refer_terms.json (2026-04-17)
+2026-04-17 09:01:18,661 - INFO - No changes detected for: TaxAct Refer Terms
+2026-04-17 09:01:32,772 - INFO - Email sent: [Page Monitor] Consolidated summary
+2026-04-17 09:01:32,773 - INFO - 
+Run complete. Changes found: 6
+2026-04-17 09:01:32,773 - INFO - ============================================================
+2026-04-20 09:00:01,688 - INFO - ============================================================
+2026-04-20 09:00:01,690 - INFO - Web Page Change Monitor - Starting run
+2026-04-20 09:00:01,690 - INFO - Timestamp: 2026-04-20T09:00:01.690862
+2026-04-20 09:00:01,690 - INFO - ============================================================
+2026-04-20 09:00:01,695 - INFO - 
+Checking: OtterBox Terms of Use
+2026-04-20 09:00:01,695 - INFO - URL: https://www.otterbox.com/en-us/terms-of-use.html
+2026-04-20 09:00:04,310 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/otterbox_terms_of_use.json (2026-04-20)
+2026-04-20 09:00:04,310 - INFO - No changes detected for: OtterBox Terms of Use
+2026-04-20 09:00:04,310 - INFO - 
+Checking: 47Brand Rewards Terms and Conditions
+2026-04-20 09:00:04,310 - INFO - URL: https://www.47brand.com/pages/47-brand-rewards-terms-and-conditions
+2026-04-20 09:00:05,435 - INFO - CHANGES DETECTED for: 47Brand Rewards Terms and Conditions
+2026-04-20 09:00:05,437 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/47brand_rewards_terms_and_conditions.txt
+2026-04-20 09:00:05,444 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_rewards_terms_and_conditions.json (2026-04-20)
+2026-04-20 09:00:05,444 - INFO - 
+Checking: 47Brand Terms and Conditions
+2026-04-20 09:00:05,444 - INFO - URL: https://www.47brand.com/pages/terms-conditions-47brand-com
+2026-04-20 09:00:06,179 - INFO - CHANGES DETECTED for: 47Brand Terms and Conditions
+2026-04-20 09:00:06,181 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/47brand_terms_and_conditions.txt
+2026-04-20 09:00:06,187 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_terms_and_conditions.json (2026-04-20)
+2026-04-20 09:00:06,187 - INFO - 
+Checking: DoorDash Consumer Terms and Conditions
+2026-04-20 09:00:06,187 - INFO - URL: https://help.doordash.com/legal/document?type=cx-terms-and-conditions&region=US&locale=en-US
+2026-04-20 09:00:07,306 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/doordash_consumer_terms_and_conditions.json (2026-04-20)
+2026-04-20 09:00:07,323 - INFO - No changes detected for: DoorDash Consumer Terms and Conditions
+2026-04-20 09:00:07,324 - INFO - 
+Checking: DoorDash Consumer Terms and Conditions US English Section 12-14
+2026-04-20 09:00:07,325 - INFO - URL: https://help.doordash.com/dashers/s/news/consumer-terms-and-conditions-us-english-section-12-14-MCB5IXJMLM2RDULADEXG3OFNGWMA
+2026-04-20 09:00:08,083 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/doordash_consumer_terms_and_conditions_us_english_section_12_14.json (2026-04-20)
+2026-04-20 09:00:08,084 - INFO - No changes detected for: DoorDash Consumer Terms and Conditions US English Section 12-14
+2026-04-20 09:00:08,084 - INFO - 
+Checking: DoorDash Consumer Terms and Conditions AU English
+2026-04-20 09:00:08,084 - INFO - URL: https://help.doordash.com/dashers/s/news/consumer-terms-and-conditions-au-english-MCHRSFWWK4TFBJHCOTRE2QVVCN2I?language=de
+2026-04-20 09:00:09,597 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/doordash_consumer_terms_and_conditions_au_english.json (2026-04-20)
+2026-04-20 09:00:09,601 - INFO - No changes detected for: DoorDash Consumer Terms and Conditions AU English
+2026-04-20 09:00:09,601 - INFO - 
+Checking: DoorDash Promotional Terms and Conditions English
+2026-04-20 09:00:09,601 - INFO - URL: https://help.doordash.com/consumers/s/promotional-terms-and-conditions-english?language=en_US&ctry=IN&divcode=MH
+2026-04-20 09:00:10,449 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/doordash_promotional_terms_and_conditions_english.json (2026-04-20)
+2026-04-20 09:00:10,450 - INFO - No changes detected for: DoorDash Promotional Terms and Conditions English
+2026-04-20 09:00:10,450 - INFO - 
+Checking: Royal Caribbean Promotions Terms and Conditions
+2026-04-20 09:00:10,450 - INFO - URL: https://www.royalcaribbean.com/terms-and-conditions/promotions
+2026-04-20 09:00:11,623 - INFO - CHANGES DETECTED for: Royal Caribbean Promotions Terms and Conditions
+2026-04-20 09:00:11,625 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/royal_caribbean_promotions_terms_and_conditions.txt
+2026-04-20 09:00:11,628 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/royal_caribbean_promotions_terms_and_conditions.json (2026-04-20)
+2026-04-20 09:00:11,629 - INFO - 
+Checking: Royal Caribbean UAE Terms and Conditions
+2026-04-20 09:00:11,629 - INFO - URL: https://www.royalcaribbean.ae/terms-and-conditions/
+2026-04-20 09:00:12,534 - INFO - CHANGES DETECTED for: Royal Caribbean UAE Terms and Conditions
+2026-04-20 09:00:12,535 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/royal_caribbean_uae_terms_and_conditions.txt
+2026-04-20 09:00:12,536 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/royal_caribbean_uae_terms_and_conditions.json (2026-04-20)
+2026-04-20 09:00:12,536 - INFO - 
+Checking: Royal Caribbean UK Terms and Conditions
+2026-04-20 09:00:12,536 - INFO - URL: https://www.royalcaribbean.com/gbr/en/terms-and-conditions.co.uk?country=GBR
+2026-04-20 09:00:13,046 - INFO - CHANGES DETECTED for: Royal Caribbean UK Terms and Conditions
+2026-04-20 09:00:13,047 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/royal_caribbean_uk_terms_and_conditions.txt
+2026-04-20 09:00:13,049 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/royal_caribbean_uk_terms_and_conditions.json (2026-04-20)
+2026-04-20 09:00:13,050 - INFO - 
+Checking: Paperless Post Party Shop Terms and Conditions
+2026-04-20 09:00:13,050 - INFO - URL: https://partyshop.paperlesspost.com/pages/terms-conditions
+2026-04-20 09:00:13,906 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/paperless_post_party_shop_terms_and_conditions.json (2026-04-20)
+2026-04-20 09:00:13,907 - INFO - No changes detected for: Paperless Post Party Shop Terms and Conditions
+2026-04-20 09:00:13,907 - INFO - 
+Checking: Carhartt Terms and Conditions
+2026-04-20 09:00:13,907 - INFO - URL: https://www.carhartt.com/terms-conditions
+2026-04-20 09:00:14,130 - INFO - Retrying with browser fallback for https://www.carhartt.com/terms-conditions after HTTP 403
+2026-04-20 09:00:28,289 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/carhartt_terms_and_conditions.txt
+2026-04-20 09:00:28,293 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/carhartt_terms_and_conditions.json (2026-04-20)
+2026-04-20 09:00:28,293 - INFO - First snapshot captured for: Carhartt Terms and Conditions
+2026-04-20 09:00:28,293 - INFO - 
+Checking: Carhartt WIP US Terms
+2026-04-20 09:00:28,293 - INFO - URL: https://us.carhartt-wip.com/en-us/terms
+2026-04-20 09:00:29,211 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/carhartt_wip_us_terms.json (2026-04-20)
+2026-04-20 09:00:29,211 - INFO - No changes detected for: Carhartt WIP US Terms
+2026-04-20 09:00:29,211 - INFO - 
+Checking: Carhartt WIP DE Terms
+2026-04-20 09:00:29,211 - INFO - URL: https://www.carhartt-wip.com/en-de/i/terms?srsltid=AfmBOopT5OKdNNxy7LmKCduP3dzn6PBKj0oDMtqhb7bfGIt_LDebrOrl
+2026-04-20 09:00:30,090 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/carhartt_wip_de_terms.json (2026-04-20)
+2026-04-20 09:00:30,090 - INFO - No changes detected for: Carhartt WIP DE Terms
+2026-04-20 09:00:30,091 - INFO - 
+Checking: Carhartt Company Gear Terms and Conditions
+2026-04-20 09:00:30,091 - INFO - URL: https://companygear.carhartt.com/terms-and-conditions/
+2026-04-20 09:00:30,375 - INFO - Retrying with browser fallback for https://companygear.carhartt.com/terms-and-conditions/ after HTTP 403
+2026-04-20 09:00:43,012 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/carhartt_company_gear_terms_and_conditions.txt
+2026-04-20 09:00:43,014 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/carhartt_company_gear_terms_and_conditions.json (2026-04-20)
+2026-04-20 09:00:43,014 - INFO - First snapshot captured for: Carhartt Company Gear Terms and Conditions
+2026-04-20 09:00:43,014 - INFO - 
+Checking: Yahoo Terms of Service
+2026-04-20 09:00:43,014 - INFO - URL: https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html
+2026-04-20 09:00:45,800 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/yahoo_terms_of_service.json (2026-04-20)
+2026-04-20 09:00:45,800 - INFO - No changes detected for: Yahoo Terms of Service
+2026-04-20 09:00:45,800 - INFO - 
+Checking: Yahoo Advertising Terms
+2026-04-20 09:00:45,800 - INFO - URL: https://legal.yahoo.com/us/en/yahoo/terms/advertising-322/index.html
+2026-04-20 09:00:47,832 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/yahoo_advertising_terms.json (2026-04-20)
+2026-04-20 09:00:47,832 - INFO - No changes detected for: Yahoo Advertising Terms
+2026-04-20 09:00:47,832 - INFO - 
+Checking: eBay Coded Coupons Buyer Terms
+2026-04-20 09:00:47,832 - INFO - URL: https://pages.ebay.com/specialoffers/codedcoupons_buyerterms.html
+2026-04-20 09:00:48,575 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ebay_coded_coupons_buyer_terms.json (2026-04-20)
+2026-04-20 09:00:48,575 - INFO - No changes detected for: eBay Coded Coupons Buyer Terms
+2026-04-20 09:00:48,575 - INFO - 
+Checking: eBay Social Sharing Terms
+2026-04-20 09:00:48,575 - INFO - URL: https://pages.ebay.com/social/sharing/terms.html
+2026-04-20 09:00:49,081 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ebay_social_sharing_terms.json (2026-04-20)
+2026-04-20 09:00:49,081 - INFO - No changes detected for: eBay Social Sharing Terms
+2026-04-20 09:00:49,081 - INFO - 
+Checking: eBay International Shipping Program Buyer Terms
+2026-04-20 09:00:49,081 - INFO - URL: https://pages.ebay.com/internationalshippingprogram/buyer/terms/
+2026-04-20 09:00:49,366 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ebay_international_shipping_program_buyer_terms.json (2026-04-20)
+2026-04-20 09:00:49,366 - INFO - No changes detected for: eBay International Shipping Program Buyer Terms
+2026-04-20 09:00:49,366 - INFO - 
+Checking: Discord Terms
+2026-04-20 09:00:49,366 - INFO - URL: https://discord.com/terms
+2026-04-20 09:00:50,256 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/discord_terms.json (2026-04-20)
+2026-04-20 09:00:50,256 - INFO - No changes detected for: Discord Terms
+2026-04-20 09:00:50,256 - INFO - 
+Checking: Activision Terms of Use
+2026-04-20 09:00:50,256 - INFO - URL: https://www.activision.com/legal/terms-of-use
+2026-04-20 09:00:50,775 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/activision_terms_of_use.json (2026-04-20)
+2026-04-20 09:00:50,775 - INFO - No changes detected for: Activision Terms of Use
+2026-04-20 09:00:50,775 - INFO - 
+Checking: Formula 1 Official F1 Race Guide App Terms and Conditions
+2026-04-20 09:00:50,776 - INFO - URL: https://www.formula1.com/en/information/official-f1-race-guide-app-terms-and-conditions.6vXQ9RT3vCLLDDeyRSUPe7
+2026-04-20 09:00:52,029 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/formula_1_official_f1_race_guide_app_terms_and_conditions.json (2026-04-20)
+2026-04-20 09:00:52,029 - INFO - No changes detected for: Formula 1 Official F1 Race Guide App Terms and Conditions
+2026-04-20 09:00:52,029 - INFO - 
+Checking: Nintendo US Terms of Use
+2026-04-20 09:00:52,029 - INFO - URL: https://www.nintendo.com/us/terms-of-use/
+2026-04-20 09:00:52,369 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/nintendo_us_terms_of_use.json (2026-04-20)
+2026-04-20 09:00:52,370 - INFO - No changes detected for: Nintendo US Terms of Use
+2026-04-20 09:00:52,370 - INFO - 
+Checking: Nintendo US Purchase Terms
+2026-04-20 09:00:52,370 - INFO - URL: https://www.nintendo.com/us/purchase-terms/
+2026-04-20 09:00:53,063 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/nintendo_us_purchase_terms.json (2026-04-20)
+2026-04-20 09:00:53,063 - INFO - No changes detected for: Nintendo US Purchase Terms
+2026-04-20 09:00:53,063 - INFO - 
+Checking: Nintendo UK Terms of Service
+2026-04-20 09:00:53,063 - INFO - URL: https://www.nintendo.com/en-gb/Legal-information/Terms-of-service-570453.html
+2026-04-20 09:00:53,402 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/nintendo_uk_terms_of_service.json (2026-04-20)
+2026-04-20 09:00:53,402 - INFO - No changes detected for: Nintendo UK Terms of Service
+2026-04-20 09:00:53,402 - INFO - 
+Checking: Nintendo Canada Gift Card Terms
+2026-04-20 09:00:53,402 - INFO - URL: https://www.nintendo.com/en-ca/giftcards/terms/
+2026-04-20 09:00:54,095 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/nintendo_canada_gift_card_terms.json (2026-04-20)
+2026-04-20 09:00:54,095 - INFO - No changes detected for: Nintendo Canada Gift Card Terms
+2026-04-20 09:00:54,096 - INFO - 
+Checking: Redfin Terms of Use
+2026-04-20 09:00:54,096 - INFO - URL: https://www.redfin.com/about/terms-of-use
+2026-04-20 09:00:55,892 - INFO - CHANGES DETECTED for: Redfin Terms of Use
+2026-04-20 09:00:55,894 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/redfin_terms_of_use.txt
+2026-04-20 09:00:55,904 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/redfin_terms_of_use.json (2026-04-20)
+2026-04-20 09:00:55,906 - INFO - 
+Checking: Redfin Terms and Conditions
+2026-04-20 09:00:55,907 - INFO - URL: https://support.redfin.com/hc/en-us/articles/360001454551-Terms-and-Conditions
+2026-04-20 09:00:56,537 - INFO - CHANGES DETECTED for: Redfin Terms and Conditions
+2026-04-20 09:00:56,538 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/redfin_terms_and_conditions.txt
+2026-04-20 09:00:56,539 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/redfin_terms_and_conditions.json (2026-04-20)
+2026-04-20 09:00:56,540 - INFO - 
+Checking: Hoopla Terms
+2026-04-20 09:00:56,540 - INFO - URL: https://www.hoopladigital.com/terms
+2026-04-20 09:00:57,149 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/hoopla_terms.json (2026-04-20)
+2026-04-20 09:00:57,149 - INFO - No changes detected for: Hoopla Terms
+2026-04-20 09:00:57,149 - INFO - 
+Checking: Hoopla Audiobook Terms and Conditions Lauren Asher
+2026-04-20 09:00:57,150 - INFO - URL: https://www.hoopladigital.com/audiobook/terms-and-conditions-lauren-asher/15210357
+2026-04-20 09:00:57,516 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/hoopla_audiobook_terms_and_conditions_lauren_asher.json (2026-04-20)
+2026-04-20 09:00:57,517 - INFO - No changes detected for: Hoopla Audiobook Terms and Conditions Lauren Asher
+2026-04-20 09:00:57,517 - INFO - 
+Checking: Hoopla UK Terms of Use
+2026-04-20 09:00:57,517 - INFO - URL: https://hoopladigital.co.uk/terms-of-use/
+2026-04-20 09:00:58,559 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/hoopla_uk_terms_of_use.json (2026-04-20)
+2026-04-20 09:00:58,560 - INFO - No changes detected for: Hoopla UK Terms of Use
+2026-04-20 09:00:58,560 - INFO - 
+Checking: 305 Fitness Terms of Service
+2026-04-20 09:00:58,560 - INFO - URL: https://www.305fitness.com/terms-of-service
+2026-04-20 09:00:59,560 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/305_fitness_terms_of_service.json (2026-04-20)
+2026-04-20 09:00:59,560 - INFO - No changes detected for: 305 Fitness Terms of Service
+2026-04-20 09:00:59,560 - INFO - 
+Checking: Bandai Namco Terms
+2026-04-20 09:00:59,560 - INFO - URL: https://www.bandainamcoent.com/legal/terms
+2026-04-20 09:01:06,997 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/bandai_namco_terms.json (2026-04-20)
+2026-04-20 09:01:06,997 - INFO - No changes detected for: Bandai Namco Terms
+2026-04-20 09:01:06,997 - INFO - 
+Checking: Baseball America Terms of Use
+2026-04-20 09:01:06,997 - INFO - URL: https://www.baseballamerica.com/terms-of-use/
+2026-04-20 09:01:07,470 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/baseball_america_terms_of_use.json (2026-04-20)
+2026-04-20 09:01:07,471 - INFO - No changes detected for: Baseball America Terms of Use
+2026-04-20 09:01:07,471 - INFO - 
+Checking: Birds and Blooms Hidden Object Official Rules
+2026-04-20 09:01:07,471 - INFO - URL: https://www.birdsandblooms.com/birds-blooms-hidden-object-official-rules/
+2026-04-20 09:01:08,136 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/birds_and_blooms_hidden_object_official_rules.json (2026-04-20)
+2026-04-20 09:01:08,136 - INFO - No changes detected for: Birds and Blooms Hidden Object Official Rules
+2026-04-20 09:01:08,136 - INFO - 
+Checking: CorePower Yoga Terms of Use
+2026-04-20 09:01:08,137 - INFO - URL: https://www.corepoweryoga.com/content/terms-use
+2026-04-20 09:01:08,725 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/corepower_yoga_terms_of_use.json (2026-04-20)
+2026-04-20 09:01:08,725 - INFO - No changes detected for: CorePower Yoga Terms of Use
+2026-04-20 09:01:08,726 - INFO - 
+Checking: CorePower Yoga Student Terms and Conditions
+2026-04-20 09:01:08,726 - INFO - URL: https://www.corepoweryoga.com/content/student-terms-conditions
+2026-04-20 09:01:09,158 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/corepower_yoga_student_terms_and_conditions.json (2026-04-20)
+2026-04-20 09:01:09,158 - INFO - No changes detected for: CorePower Yoga Student Terms and Conditions
+2026-04-20 09:01:09,158 - INFO - 
+Checking: Criterion Terms
+2026-04-20 09:01:09,158 - INFO - URL: https://www.criterion.com/terms?srsltid=AfmBOoqHIf_tHIBfLgXJCw-OBaUsLcBm5suDfiCDBavrhMIeTHWQU6OF
+2026-04-20 09:01:10,907 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/criterion_terms.json (2026-04-20)
+2026-04-20 09:01:10,907 - INFO - No changes detected for: Criterion Terms
+2026-04-20 09:01:10,907 - INFO - 
+Checking: Criterion Channel Terms of Service
+2026-04-20 09:01:10,908 - INFO - URL: https://www.criterionchannel.com/tos
+2026-04-20 09:01:11,730 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/criterion_channel_terms_of_service.json (2026-04-20)
+2026-04-20 09:01:11,730 - INFO - No changes detected for: Criterion Channel Terms of Service
+2026-04-20 09:01:11,730 - INFO - 
+Checking: DKOldies Terms and Conditions
+2026-04-20 09:01:11,730 - INFO - URL: https://www.dkoldies.com/terms-and-conditions/
+2026-04-20 09:01:14,185 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/dkoldies_terms_and_conditions.json (2026-04-20)
+2026-04-20 09:01:14,185 - INFO - No changes detected for: DKOldies Terms and Conditions
+2026-04-20 09:01:14,185 - INFO - 
+Checking: EA User Agreement
+2026-04-20 09:01:14,185 - INFO - URL: https://www.ea.com/legal/user-agreement
+2026-04-20 09:01:14,512 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ea_user_agreement.json (2026-04-20)
+2026-04-20 09:01:14,512 - INFO - No changes detected for: EA User Agreement
+2026-04-20 09:01:14,513 - INFO - 
+Checking: EA Terms of Sale
+2026-04-20 09:01:14,513 - INFO - URL: https://www.ea.com/legal/terms-of-sale
+2026-04-20 09:01:15,227 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ea_terms_of_sale.json (2026-04-20)
+2026-04-20 09:01:15,228 - INFO - No changes detected for: EA Terms of Sale
+2026-04-20 09:01:15,228 - INFO - 
+Checking: EA Play Terms
+2026-04-20 09:01:15,228 - INFO - URL: https://www.ea.com/legal/ea-play-terms
+2026-04-20 09:01:15,823 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/ea_play_terms.json (2026-04-20)
+2026-04-20 09:01:15,824 - INFO - No changes detected for: EA Play Terms
+2026-04-20 09:01:15,824 - INFO - 
+Checking: Game Over Videogames Terms of Use
+2026-04-20 09:01:15,824 - INFO - URL: https://gameovergames.com/terms-of-use/
+2026-04-20 09:01:17,054 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/game_over_videogames_terms_of_use.json (2026-04-20)
+2026-04-20 09:01:17,055 - INFO - No changes detected for: Game Over Videogames Terms of Use
+2026-04-20 09:01:17,055 - INFO - 
+Checking: GameFly Terms of Use
+2026-04-20 09:01:17,055 - INFO - URL: https://www.gamefly.com/terms-of-use?srsltid=AfmBOopNrKpQyLUcGwbRwLj6xJ6vsCLufM2Qm_TNO5nMNWmR7r5RbvQY
+2026-04-20 09:01:18,449 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/gamefly_terms_of_use.json (2026-04-20)
+2026-04-20 09:01:18,449 - INFO - No changes detected for: GameFly Terms of Use
+2026-04-20 09:01:18,449 - INFO - 
+Checking: Google Assistant Community Terms
+2026-04-20 09:01:18,450 - INFO - URL: https://developers.google.com/assistant/community/terms
+2026-04-20 09:01:19,312 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/google_assistant_community_terms.json (2026-04-20)
+2026-04-20 09:01:19,312 - INFO - No changes detected for: Google Assistant Community Terms
+2026-04-20 09:01:19,312 - INFO - 
+Checking: Google Assistant Product Terms
+2026-04-20 09:01:19,312 - INFO - URL: https://transparency.google/intl/en/our-policies/product-terms/google-assistant/
+2026-04-20 09:01:19,579 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/google_assistant_product_terms.json (2026-04-20)
+2026-04-20 09:01:19,580 - INFO - No changes detected for: Google Assistant Product Terms
+2026-04-20 09:01:19,580 - INFO - 
+Checking: iam8bit Terms Conditions Policy
+2026-04-20 09:01:19,580 - INFO - URL: https://www.iam8bit.com/pages/terms-conditions-policy
+2026-04-20 09:01:20,271 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/iam8bit_terms_conditions_policy.json (2026-04-20)
+2026-04-20 09:01:20,271 - INFO - No changes detected for: iam8bit Terms Conditions Policy
+2026-04-20 09:01:20,271 - INFO - 
+Checking: iam8bit Policies
+2026-04-20 09:01:20,271 - INFO - URL: https://www.iam8bit.com/pages/policies
+2026-04-20 09:01:20,877 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/iam8bit_policies.json (2026-04-20)
+2026-04-20 09:01:20,878 - INFO - No changes detected for: iam8bit Policies
+2026-04-20 09:01:20,878 - INFO - 
+Checking: iam8bit Privacy Policy
+2026-04-20 09:01:20,878 - INFO - URL: https://www.iam8bit.com/pages/privacy-policy
+2026-04-20 09:01:21,390 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/iam8bit_privacy_policy.json (2026-04-20)
+2026-04-20 09:01:21,391 - INFO - No changes detected for: iam8bit Privacy Policy
+2026-04-20 09:01:21,391 - INFO - 
+Checking: Kick Terms of Service
+2026-04-20 09:01:21,391 - INFO - URL: https://kick.com/terms-of-service
+2026-04-20 09:01:22,228 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/kick_terms_of_service.json (2026-04-20)
+2026-04-20 09:01:22,228 - INFO - No changes detected for: Kick Terms of Service
+2026-04-20 09:01:22,229 - INFO - 
+Checking: Kick Partner Terms and Conditions
+2026-04-20 09:01:22,229 - INFO - URL: https://kick.com/partner-terms-and-conditions
+2026-04-20 09:01:23,040 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/kick_partner_terms_and_conditions.json (2026-04-20)
+2026-04-20 09:01:23,040 - INFO - No changes detected for: Kick Partner Terms and Conditions
+2026-04-20 09:01:23,040 - INFO - 
+Checking: Xbox Subscription Terms
+2026-04-20 09:01:23,040 - INFO - URL: https://www.xbox.com/en-IN/legal/subscription-terms
+2026-04-20 09:01:23,380 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/xbox_subscription_terms.json (2026-04-20)
+2026-04-20 09:01:23,380 - INFO - No changes detected for: Xbox Subscription Terms
+2026-04-20 09:01:23,380 - INFO - 
+Checking: Xbox Web Purchase Terms
+2026-04-20 09:01:23,380 - INFO - URL: https://www.xbox.com/en-US/legal/web-purchase
+2026-04-20 09:01:24,265 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/xbox_web_purchase_terms.txt
+2026-04-20 09:01:24,266 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/xbox_web_purchase_terms.json (2026-04-20)
+2026-04-20 09:01:24,266 - INFO - First snapshot captured for: Xbox Web Purchase Terms
+2026-04-20 09:01:24,266 - INFO - 
+Checking: PGA TOUR Tickets and Merchandise Terms and Conditions
+2026-04-20 09:01:24,266 - INFO - URL: https://www.pgatour.com/company/terms-conditions-tickets-and-merchandise
+2026-04-20 09:01:26,921 - INFO - CHANGES DETECTED for: PGA TOUR Tickets and Merchandise Terms and Conditions
+2026-04-20 09:01:26,922 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/pga_tour_tickets_and_merchandise_terms_and_conditions.txt
+2026-04-20 09:01:26,924 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/pga_tour_tickets_and_merchandise_terms_and_conditions.json (2026-04-20)
+2026-04-20 09:01:26,925 - INFO - 
+Checking: PGA TOUR Terms of Use
+2026-04-20 09:01:26,925 - INFO - URL: https://www.pgatour.com/company/terms-of-use
+2026-04-20 09:01:30,138 - INFO - CHANGES DETECTED for: PGA TOUR Terms of Use
+2026-04-20 09:01:30,139 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/pga_tour_terms_of_use.txt
+2026-04-20 09:01:30,142 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/pga_tour_terms_of_use.json (2026-04-20)
+2026-04-20 09:01:30,142 - INFO - 
+Checking: Pvolve Terms of Service
+2026-04-20 09:01:30,142 - INFO - URL: https://www.pvolve.com/policies/terms-of-service?srsltid=AfmBOoqMxgGLW17FSojeSIBgMvuQApDx-G0oX10TWbOGLJ-XtagqbxH2
+2026-04-20 09:01:31,451 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/pvolve_terms_of_service.json (2026-04-20)
+2026-04-20 09:01:31,451 - INFO - No changes detected for: Pvolve Terms of Service
+2026-04-20 09:01:31,451 - INFO - 
+Checking: Pvolve Terms of Service Page 2
+2026-04-20 09:01:31,451 - INFO - URL: https://www.pvolve.com/policies/terms-of-service?page=2&srsltid=AfmBOora5D6RkYgBsrQzHBqTr0DdaxYGlPgiSm77Nipr3y4v8rvpEHuK
+2026-04-20 09:01:32,182 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/pvolve_terms_of_service_page_2.json (2026-04-20)
+2026-04-20 09:01:32,182 - INFO - No changes detected for: Pvolve Terms of Service Page 2
+2026-04-20 09:01:32,182 - INFO - 
+Checking: Pvolve Ultimate Giveaway 2025 Terms and Conditions
+2026-04-20 09:01:32,182 - INFO - URL: https://www.pvolve.com/pages/terms-conditions-ultimate-giveaway-2025?srsltid=AfmBOorXYZAWGpkB85_Cmz6VuPZ7b5YnyImKsRyiHp7c5MGcRQrUnOsp
+2026-04-20 09:01:32,859 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/pvolve_ultimate_giveaway_2025_terms_and_conditions.json (2026-04-20)
+2026-04-20 09:01:32,859 - INFO - No changes detected for: Pvolve Ultimate Giveaway 2025 Terms and Conditions
+2026-04-20 09:01:32,859 - INFO - 
+Checking: Quince Privacy Policy
+2026-04-20 09:01:32,859 - INFO - URL: https://www.quince.com/privacy-policy?srsltid=AfmBOorDGXgSLYQALnnpy2FCZsaA5J8pzdUK74zfteFSaQZMpnpJgvd0
+2026-04-20 09:01:34,728 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/quince_privacy_policy.json (2026-04-20)
+2026-04-20 09:01:34,728 - INFO - No changes detected for: Quince Privacy Policy
+2026-04-20 09:01:34,728 - INFO - 
+Checking: Quince Terms
+2026-04-20 09:01:34,728 - INFO - URL: https://www.quince.com/terms?srsltid=AfmBOopmxy-iYsOpaSa17WxlmBwrvPClfouahF7_qgwm6ElqSLk6DcyH
+2026-04-20 09:01:36,316 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/quince_terms.json (2026-04-20)
+2026-04-20 09:01:36,317 - INFO - No changes detected for: Quince Terms
+2026-04-20 09:01:36,317 - INFO - 
+Checking: Reader's Digest Terms of Use
+2026-04-20 09:01:36,317 - INFO - URL: https://www.readersdigest.in/terms-of-use
+2026-04-20 09:01:37,450 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/reader_s_digest_terms_of_use.json (2026-04-20)
+2026-04-20 09:01:37,450 - INFO - No changes detected for: Reader's Digest Terms of Use
+2026-04-20 09:01:37,450 - INFO - 
+Checking: Reader's Digest Gift Rules
+2026-04-20 09:01:37,450 - INFO - URL: https://subscription.readersdigest.in/rdindia/giftedm/s100rules.html
+2026-04-20 09:01:38,420 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/reader_s_digest_gift_rules.json (2026-04-20)
+2026-04-20 09:01:38,421 - INFO - No changes detected for: Reader's Digest Gift Rules
+2026-04-20 09:01:38,421 - INFO - 
+Checking: SiriusXM Media Terms
+2026-04-20 09:01:38,422 - INFO - URL: https://www.siriusxmmedia.com/terms
+2026-04-20 09:01:40,534 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/siriusxm_media_terms.json (2026-04-20)
+2026-04-20 09:01:40,535 - INFO - No changes detected for: SiriusXM Media Terms
+2026-04-20 09:01:40,535 - INFO - 
+Checking: SiriusXM Customer Agreement
+2026-04-20 09:01:40,535 - INFO - URL: https://www.siriusxm.com/customer-agreement
+2026-04-20 09:01:42,931 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/siriusxm_customer_agreement.json (2026-04-20)
+2026-04-20 09:01:42,931 - INFO - No changes detected for: SiriusXM Customer Agreement
+2026-04-20 09:01:42,931 - INFO - 
+Checking: Starz Terms of Use
+2026-04-20 09:01:42,931 - INFO - URL: https://www.starz.com/us/en/termsofuse
+2026-04-20 09:01:45,981 - INFO - CHANGES DETECTED for: Starz Terms of Use
+2026-04-20 09:01:45,982 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/starz_terms_of_use.txt
+2026-04-20 09:01:45,986 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/starz_terms_of_use.json (2026-04-20)
+2026-04-20 09:01:45,986 - INFO - 
+Checking: Starz SPI Terms Web BR EN
+2026-04-20 09:01:45,986 - INFO - URL: https://resources.starz.com/legal/spi-terms-web-br-en.html
+2026-04-20 09:01:46,974 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/starz_spi_terms_web_br_en.json (2026-04-20)
+2026-04-20 09:01:46,978 - INFO - No changes detected for: Starz SPI Terms Web BR EN
+2026-04-20 09:01:46,978 - INFO - 
+Checking: Starz SPI Terms Web FI EN
+2026-04-20 09:01:46,978 - INFO - URL: https://resources.starz.com/legal/spi-terms-web-fi-en.html
+2026-04-20 09:01:47,738 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/starz_spi_terms_web_fi_en.json (2026-04-20)
+2026-04-20 09:01:47,739 - INFO - No changes detected for: Starz SPI Terms Web FI EN
+2026-04-20 09:01:47,739 - INFO - 
+Checking: TaxAct Terms of Service
+2026-04-20 09:01:47,739 - INFO - URL: https://www.taxact.com/terms-of-service
+2026-04-20 09:01:49,155 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/taxact_terms_of_service.json (2026-04-20)
+2026-04-20 09:01:49,155 - INFO - No changes detected for: TaxAct Terms of Service
+2026-04-20 09:01:49,155 - INFO - 
+Checking: TaxAct Terms of Service Printable
+2026-04-20 09:01:49,155 - INFO - URL: https://www.taxact.com/terms-of-service/printable
+2026-04-20 09:01:50,333 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/taxact_terms_of_service_printable.json (2026-04-20)
+2026-04-20 09:01:50,333 - INFO - No changes detected for: TaxAct Terms of Service Printable
+2026-04-20 09:01:50,333 - INFO - 
+Checking: TaxAct Free File Terms of Service
+2026-04-20 09:01:50,333 - INFO - URL: https://www.taxact.com/ffa/free-file/terms-of-service
+2026-04-20 09:01:51,428 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/taxact_free_file_terms_of_service.json (2026-04-20)
+2026-04-20 09:01:51,428 - INFO - No changes detected for: TaxAct Free File Terms of Service
+2026-04-20 09:01:51,428 - INFO - 
+Checking: TaxAct VITA Terms of Service
+2026-04-20 09:01:51,428 - INFO - URL: https://www.taxact.com/ffa/vita/terms-of-service
+2026-04-20 09:01:52,554 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/taxact_vita_terms_of_service.json (2026-04-20)
+2026-04-20 09:01:52,554 - INFO - No changes detected for: TaxAct VITA Terms of Service
+2026-04-20 09:01:52,554 - INFO - 
+Checking: TaxAct Refer Terms
+2026-04-20 09:01:52,555 - INFO - URL: https://refer.taxact.com/zone/terms?campaign_id=6766300849289157074
+2026-04-20 09:01:53,613 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/taxact_refer_terms.json (2026-04-20)
+2026-04-20 09:01:53,614 - INFO - No changes detected for: TaxAct Refer Terms
+2026-04-20 09:02:08,946 - INFO - Email sent: [Page Monitor] Consolidated summary (Part 1/5)
+2026-04-20 09:02:20,183 - INFO - Email sent: [Page Monitor] Consolidated summary (Part 2/5)
+2026-04-20 09:02:30,117 - INFO - Email sent: [Page Monitor] Consolidated summary (Part 3/5)
+2026-04-20 09:02:41,650 - INFO - Email sent: [Page Monitor] Consolidated summary (Part 4/5)
+2026-04-20 09:02:59,643 - INFO - Email sent: [Page Monitor] Consolidated summary (Part 5/5)
+2026-04-20 09:02:59,653 - INFO - 
+Run complete. Changes found: 10
+2026-04-20 09:02:59,653 - INFO - ============================================================

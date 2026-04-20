@@ -1,0 +1,35 @@
+2026-03-19 12:05:07,697 - INFO - History updated for 2026-03-19 - OtterBox Terms of Use
+2026-03-19 12:05:08,004 - INFO - History updated for 2026-03-19 - 47Brand Rewards Terms and Conditions
+2026-03-19 12:05:08,310 - INFO - History updated for 2026-03-19 - 47Brand Terms and Conditions
+2026-03-19 12:10:35,155 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/otterbox_terms_of_use.json (2026-03-19)
+2026-03-19 12:10:35,567 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_rewards_terms_and_conditions.json (2026-03-19)
+2026-03-19 12:10:35,842 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_terms_and_conditions.json (2026-03-19)
+2026-03-19 15:42:59,698 - INFO - ============================================================
+2026-03-19 15:42:59,698 - INFO - Web Page Change Monitor - Starting run
+2026-03-19 15:42:59,698 - INFO - Timestamp: 2026-03-19T15:42:59.698540
+2026-03-19 15:42:59,698 - INFO - ============================================================
+2026-03-19 15:42:59,700 - WARNING - python-dotenv could not parse statement starting at line 24
+2026-03-19 15:42:59,700 - INFO - 
+Checking: OtterBox Terms of Use
+2026-03-19 15:42:59,700 - INFO - URL: https://www.otterbox.com/en-us/terms-of-use.html
+2026-03-19 15:43:00,777 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/otterbox_terms_of_use.txt
+2026-03-19 15:43:00,778 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/otterbox_terms_of_use.json (2026-03-19)
+2026-03-19 15:43:00,778 - INFO - First snapshot captured for: OtterBox Terms of Use
+2026-03-19 15:43:09,808 - INFO - Email sent: [Page Monitor] First snapshot captured - OtterBox Terms of Use
+2026-03-19 15:43:09,809 - INFO - 
+Checking: 47Brand Rewards Terms and Conditions
+2026-03-19 15:43:09,809 - INFO - URL: https://www.47brand.com/pages/47-brand-rewards-terms-and-conditions
+2026-03-19 15:43:10,229 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/47brand_rewards_terms_and_conditions.txt
+2026-03-19 15:43:10,231 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_rewards_terms_and_conditions.json (2026-03-19)
+2026-03-19 15:43:10,231 - INFO - First snapshot captured for: 47Brand Rewards Terms and Conditions
+2026-03-19 15:43:18,590 - INFO - Email sent: [Page Monitor] First snapshot captured - 47Brand Rewards Terms and Conditions
+2026-03-19 15:43:18,592 - INFO - 
+Checking: 47Brand Terms and Conditions
+2026-03-19 15:43:18,592 - INFO - URL: https://www.47brand.com/pages/terms-conditions-47brand-com
+2026-03-19 15:43:18,878 - INFO - Snapshot saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/snapshots/47brand_terms_and_conditions.txt
+2026-03-19 15:43:18,879 - INFO - History saved: /Users/sharayu/CodeLab/GitHub/47Brand-Otterbox-Scraping/history/47brand_terms_and_conditions.json (2026-03-19)
+2026-03-19 15:43:18,879 - INFO - First snapshot captured for: 47Brand Terms and Conditions
+2026-03-19 15:43:27,087 - INFO - Email sent: [Page Monitor] First snapshot captured - 47Brand Terms and Conditions
+2026-03-19 15:43:27,089 - INFO - 
+Run complete. Changes found: 0
+2026-03-19 15:43:27,090 - INFO - ============================================================

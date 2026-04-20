@@ -1,0 +1,145 @@
+Google Assistant Policies and Guidelines - Transparency Center
+
+See all products
+
+Explore by product
+
+Search a Google product from below list.
+
+Product Terms
+
+Ads Creative Studio
+
+Android Auto / Automotive
+
+Android TV
+
+Authorized Buyers
+
+Blogger
+
+Display and Video 360
+
+Fitbit
+
+Kaggle
+
+Gmail
+
+Google Account
+
+Google Ad Manager
+
+Google AdMob
+
+Google Ads
+
+Google AdSense
+
+Google Arts & Culture
+
+Google Assistant
+
+Google Business Profile
+
+Google Calendar
+
+Google Chat
+
+Google Chrome
+
+Google Classroom
+
+Google Cloud Platform
+
+pub.dev
+
+Google Docs
+
+Google Drawings
+
+Google Drive
+
+Google Earth
+
+Google Fi
+
+Google Fit
+
+Google Forms
+
+Google Groups
+
+Google Help Communities
+
+Google Maps
+
+Google Meet
+
+Google My Maps
+
+Google News
+
+Google Pay
+
+Google Photos
+
+Google Play
+
+Google Search
+
+Google Sheets
+
+Google Shopping
+
+Google Sites
+
+Google Slides
+
+Google Voice
+
+Local Guides
+
+Programmable Search Engine
+
+Publisher Center
+
+Tenor
+
+Travel
+
+Waze
+
+Wear OS
+
+YouTube
+
+Google Assistant
+
+Google Assistant guidelines and Actions on Google policies are designed to provide guidance to developers building Actions on the Google platform.
+
+Developer Guide
+
+Learn about the main factors that help determine how Assistant understands and responds to your request.
+
+View guide
+
+Policies for App Actions
+
+Learn more about policies around building for App Actions
+
+View policy
+
+Agreements
+
+By accessing or using Actions on Google, you are agreeing to the Google Assistant Terms and Conditions and all other relevant terms.
+
+View Actions on Google terms
+
+View Google Assistant terms
+
+Privacy Notice for Childrenâs Features
+
+View the Privacy Notice for Audio Collection from Childrenâs Features on Google Assistant.
+
+View privacy notice
